@@ -1,0 +1,524 @@
+{
+  "results": [
+    {
+      "question": "左邊舷燈底板的顏色是",
+      "id": "8",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "無反光黑色",
+      "incorrect_answers": [
+        "紅色",
+        "無規定",
+        "跟舷燈顏色相同"
+      ]
+    },
+    {
+      "question": "右圖是甚麼船舶",
+      "id": "36",
+      "hasPic": "36",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "領航船",
+      "incorrect_answers": [
+        "漁船 (並非拖網)",
+        "50米以上的機動船",
+        "燃油駁艇"
+      ]
+    },
+    {
+      "question": "什麼船隻顯示這種燈號",
+      "id": "37",
+      "hasPic": "37",
+      "hasMP3": "",
+      "answer": "a",
+      "correct_answer": "領航船",
+      "incorrect_answers": [
+        "船隻正在等待救援",
+        "船舶正在從事人員、食品或貨物轉運工作",
+        "以上皆不是"
+      ]
+    },
+    {
+      "question": "右圖是甚麼船",
+      "id": "49",
+      "hasPic": "49",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "a, b皆正確",
+      "incorrect_answers": [
+        "擱淺船",
+        "失去控制船",
+        "運載燃油船"
+      ]
+    },
+    {
+      "question": "那一類船舶顯示此種訊號？",
+      "id": "103",
+      "hasPic": "103",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "失去控制船",
+        "測量船",
+        "下錨船"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現此船在你右舷前3點，你們之間的羅經方位保持不變，你應",
+      "id": "121",
+      "hasPic": "121",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "響一短聲轉右",
+      "incorrect_answers": [
+        "響兩短聲轉左",
+        "發出五短聲警告",
+        "響三短聲後停船"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現此船在你左舷前3點，你們之間的羅經方位保持不變，你應",
+      "id": "127",
+      "hasPic": "127",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "保持航向及航速",
+      "incorrect_answers": [
+        "響一短聲轉右",
+        "響兩短聲轉左",
+        "發出五短聲警告"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現此船在你左舷前4點，你們之間的羅經方位保持不變，你應",
+      "id": "128",
+      "hasPic": "128",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "響兩短聲轉左",
+      "incorrect_answers": [
+        "保持航向及航速",
+        "發出五短聲警告",
+        "響三長聲停船"
+      ]
+    },
+    {
+      "question": "航行時發現此帆船在你左舷前3點，你們之間的羅經方位保持不變，你應",
+      "id": "131",
+      "hasPic": "131",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "保持航向及航速，發出五短聲警告",
+      "incorrect_answers": [
+        "響一短聲轉右",
+        "響兩短聲轉左",
+        "保持航向直駛"
+      ]
+    },
+    {
+      "question": "你船前往大嶼山途中，I船察覺II船的羅經方位非固定不變，以上情況應",
+      "id": "133",
+      "hasPic": "133",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "假設橫越局面",
+      "incorrect_answers": [
+        "I 船發出五短聲",
+        "II 船發出一短聲轉右",
+        "II 船無需理會"
+      ]
+    },
+    {
+      "question": "避免兩船相撞，應",
+      "id": "143",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "充分時間大幅度轉向",
+      "incorrect_answers": [
+        "連續少幅度轉速",
+        "連續少幅度轉向",
+        "(c) 及 (a)"
+      ]
+    },
+    {
+      "question": "大霧中，一隻機動船於大海中下錨，當有其他船隻接近時，你應發出什麼聲號",
+      "id": "178",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "一短一長一短聲",
+      "incorrect_answers": [
+        "一短一長兩短聲",
+        "三短三長三短聲",
+        "兩短一長一短聲"
+      ]
+    },
+    {
+      "question": "你船艏向255°，見一泡在你船左舷015°，你們之間的羅經方位漸漸增加，你應",
+      "id": "227",
+      "hasPic": "227",
+      "hasMP3": "Y",
+      "answer": "d",
+      "correct_answer": "(a)與(b)皆正確",
+      "incorrect_answers": [
+        "保持航向，減速經過",
+        "船向轉右經過該泡",
+        "船向轉左經過該泡"
+      ]
+    },
+    {
+      "question": "船向 165°，見右圖航標在前方，應",
+      "id": "230",
+      "hasPic": "230",
+      "hasMP3": "Y",
+      "answer": "c",
+      "correct_answer": "它在你的左舷經過",
+      "incorrect_answers": [
+        "如果附近沒有其他船隻，你可從任何一舷經過",
+        "停船並檢查自己的航向",
+        "它在你的右舷經過"
+      ]
+    },
+    {
+      "question": "你船在馬灣航道向西面航行，往大嶼山北，見此航標在你右舷前1點，你應",
+      "id": "260",
+      "hasPic": "260",
+      "hasMP3": "Y",
+      "answer": "d",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "向前慢駛",
+        "改航向轉左",
+        "(a) 及 (b) 皆正確"
+      ]
+    },
+    {
+      "question": "在大嶼山北往銅鑼灣，在左舷前 5 點見每數秒2閃紅色燈，你應",
+      "id": "269",
+      "hasPic": "",
+      "hasMP3": "Y",
+      "answer": "d",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "減速，以左舷經過",
+        "以任何一舷經過",
+        "以上皆是"
+      ]
+    },
+    {
+      "question": "圖中的航道是",
+      "id": "285",
+      "hasPic": "285",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "北航道",
+      "incorrect_answers": [
+        "南航道",
+        "青州北航道",
+        "分航線計劃"
+      ]
+    },
+    {
+      "question": "連接鯉魚門兩岸之紅/白及黑/白混凝土標誌柱是什麼？",
+      "id": "291",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "a",
+      "correct_answer": "海港界線",
+      "incorrect_answers": [
+        "海底電纜",
+        "速度界線",
+        "(a) 或 (b)"
+      ]
+    },
+    {
+      "question": "在圖中，船長12公尺以下的船在黑色部分地區，最高航行速度為",
+      "id": "297",
+      "hasPic": "297",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "5節",
+      "incorrect_answers": [
+        "3節",
+        "10節",
+        "15節"
+      ]
+    },
+    {
+      "question": "圖中的航道內，13米的船舶的最高時速是",
+      "id": "302",
+      "hasPic": "302",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "10節",
+      "incorrect_answers": [
+        "12節",
+        "8節",
+        "5節"
+      ]
+    },
+    {
+      "question": "在滑水活動進行中，除了駕駛員外，一位人士負責觀察環境及協助滑水者，該觀察員應為",
+      "id": "365",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "年滿18歲",
+      "incorrect_answers": [
+        "年滿16歲",
+        "年滿21歲",
+        "擁有船長執照"
+      ]
+    },
+    {
+      "question": "有一艘帆船用機動輔助行駛，進入銅鑼灣避風塘後要轉左，應",
+      "id": "369",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "發出兩短聲",
+      "incorrect_answers": [
+        "發出一長聲",
+        "發出兩長聲",
+        "發出一短聲"
+      ]
+    },
+    {
+      "question": "(I) 船與(II) 船為機動船，兩船在天朗氣清時在廣闊的大海中航行，(II) 船的速度快過 (I) 船，(II) 船亦想超越 (I) 船，以下那項正確？",
+      "id": "383",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "(II) 船可在安全的距離在任何一方超越 (I) 船",
+      "incorrect_answers": [
+        "(II) 船不應超越 (I) 船",
+        "(II) 船應發出兩長一短聲或兩長兩短聲表示其意願",
+        "(II) 船應超越 (I) 船"
+      ]
+    },
+    {
+      "question": "你船前往鯉魚門時見前面有一船，你需要超越它，應發出",
+      "id": "385",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "兩長兩短聲",
+      "incorrect_answers": [
+        "一短聲",
+        "兩短聲",
+        "不需發出任何聲號"
+      ]
+    },
+    {
+      "question": "若要量度海圖中兩點的距離，應量度",
+      "id": "415",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "a",
+      "correct_answer": "緯度之差距",
+      "incorrect_answers": [
+        "經度之差距",
+        "量度海圖上邊或下邊邊緣的分格距離",
+        "a或b"
+      ]
+    },
+    {
+      "question": "在海圖上，1海浬相等於",
+      "id": "432",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "6080英尺",
+      "incorrect_answers": [
+        "5280英尺",
+        "1000米",
+        "1米"
+      ]
+    },
+    {
+      "question": "一艘載有5名船員名50名乘客的船隻遇到撞船，情況嚴重，應",
+      "id": "481",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "(a) 及 (b)",
+      "incorrect_answers": [
+        "即時發出遇難求救信號，並放下救生艇",
+        "要求船上所有人穿上救生衣，並跳入海中",
+        "以上皆非"
+      ]
+    },
+    {
+      "question": "有人在船上跌落水，你應",
+      "id": "485",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "a",
+      "correct_answer": "轉向，船頭駛向他/她墮海方向",
+      "incorrect_answers": [
+        "掛上有人墮海之旗號",
+        "向海事處報告",
+        "倒後及停船"
+      ]
+    },
+    {
+      "question": "有人在船側跌落水，你應立即",
+      "id": "494",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "拋救生圈",
+      "incorrect_answers": [
+        "將船艏駛離他/她的方向",
+        "倒後及停船",
+        "掛上有人墮海之旗號"
+      ]
+    },
+    {
+      "question": "一艘細馬力的船擱淺於大石上，不應做以下那一項",
+      "id": "501",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "開倒車",
+      "incorrect_answers": [
+        "檢查船身狀況",
+        "關掉引擎",
+        "檢查有沒有船員受傷"
+      ]
+    },
+    {
+      "question": "在船上如何得知颱風消息？ i) 懸掛在訊號站的颱風信號 ii) 電台或電視台 iii) 海事航行安全通告 iv) 打電話到天文台查詢",
+      "id": "515",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "a",
+      "correct_answer": "以上皆是",
+      "incorrect_answers": [
+        "(i), (ii), (iii) 正確",
+        "(i), (ii), (iv) 正確",
+        "(ii), (iii), (iv) 正確"
+      ]
+    },
+    {
+      "question": "香港天文台發出強烈季候風訊號發出時，代表",
+      "id": "523",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "(a) 及 (b)",
+      "incorrect_answers": [
+        "強烈季候風風速超過或預計將會超過40公里/小時",
+        "在空曠處，強烈季候風風速或會超過70公里/小時",
+        "有一颱風進入香港400海浬以內"
+      ]
+    },
+    {
+      "question": "海圖上的這個標誌代表",
+      "id": "535",
+      "hasPic": "535",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "漲潮",
+      "incorrect_answers": [
+        "風",
+        "指示航道之航行方向",
+        "退潮"
+      ]
+    },
+    {
+      "question": "你同時觀察2個對象以測定船位時，對象之間的角度應",
+      "id": "551",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "盡量成90°",
+      "incorrect_answers": [
+        "盡量成15°",
+        "盡量成30°",
+        "盡量成60°"
+      ]
+    },
+    {
+      "question": "海事佈告是",
+      "id": "584",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "(b) 及 (c)",
+      "incorrect_answers": [
+        "顯示遊樂船隻入港及出港的資訊",
+        "顯示船隻限制速度區",
+        "顯示海事法例的更改"
+      ]
+    },
+    {
+      "question": "以下那些設備可與香港海上救援協調中心(MRCC)進行聯絡",
+      "id": "604",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "d",
+      "correct_answer": "無線電話、甚頻高電話、RSS (簡易資訊聚合)、電傳、圖文傳真",
+      "incorrect_answers": [
+        "無線電話、甚頻高電話",
+        "無線電話、甚頻高電話、RSS (簡易資訊聚合)",
+        "無線電話、甚頻高電話、RSS (簡易資訊聚合)、電傳"
+      ]
+    },
+    {
+      "question": "求救信號是 1) 不斷長響 2) 向天發射紅星信號彈 3) 在船上燃燒火焰 4) 放出白色煙霧",
+      "id": "632",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "c",
+      "correct_answer": "1, 2, 3",
+      "incorrect_answers": [
+        "1, 2",
+        "1, 4",
+        "2, 3, 4"
+      ]
+    },
+    {
+      "question": "航行前應檢查",
+      "id": "648",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "防火注意事項及船上救生設備是否足夠",
+      "incorrect_answers": [
+        "食物是否足夠",
+        "螺絲有否鎖緊",
+        "甲板有沒有潤滑油"
+      ]
+    },
+    {
+      "question": "如果你在船艙聞到強烈的石油氣味，下列哪項操作是不正確的？",
+      "id": "662",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "a",
+      "correct_answer": "立即開啟所有的抽氣扇",
+      "incorrect_answers": [
+        "立即通知其他船員",
+        "打開門窗",
+        "立即關閉氣瓶上的調節器"
+      ]
+    },
+    {
+      "question": "甲板下發生油火，不應用什麼撲救",
+      "id": "701",
+      "hasPic": "",
+      "hasMP3": "",
+      "answer": "b",
+      "correct_answer": "除油劑",
+      "incorrect_answers": [
+        "乾粉",
+        "(a) 及 (b)",
+        "以上皆非"
+      ]
+    }
+  ]
+}
