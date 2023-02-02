@@ -1,0 +1,484 @@
+{
+    "results": [
+      {
+        "question": "以下那一類船隻在下錨時不須要用錨燈",
+        "id": "18",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "從事捕漁的船",
+        "incorrect_answers": [
+          "遊艇",
+          "海軍船舶",
+          "從事鋪設電纜的操縱能力受限制船"
+        ]
+      },
+      {
+        "question": "圖中是甚麼類型的船舶",
+        "id": "21",
+        "hasPic": "21",
+        "hasMP3": "",
+        "correct_answer": "任何長度機動船",
+        "incorrect_answers": [
+          "長度50公尺以上帆船",
+          "長度50公尺以下機動船",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "右圖是甚麼船舶",
+        "id": "43",
+        "hasPic": "43",
+        "hasMP3": "",
+        "correct_answer": "拖船(推頂)",
+        "incorrect_answers": [
+          "機動船(任何長度)",
+          "漁船",
+          "帆船"
+        ]
+      },
+      {
+        "question": "如圖，若你在海上駕船時，發現此船在你左舷前3點，你應",
+        "id": "68",
+        "hasPic": "68",
+        "hasMP3": "",
+        "correct_answer": "保持航速航向 , 有需要時發出響五短聲作警告",
+        "incorrect_answers": [
+          "響一短聲並將航向轉右",
+          "響兩短聲並將航向轉左",
+          "停船"
+        ]
+      },
+      {
+        "question": "你在海上駕船時發現右圖的船在你右舷前2 點，而你們的羅經方位不斷增加，你應",
+        "id": "82",
+        "hasPic": "82",
+        "hasMP3": "",
+        "correct_answer": "以上皆不是",
+        "incorrect_answers": [
+          "響五短聲警告",
+          "響一短聲轉右",
+          "立即停船"
+        ]
+      },
+      {
+        "question": "甚麼船用此種標誌",
+        "id": "105",
+        "hasPic": "105",
+        "hasMP3": "",
+        "correct_answer": "挖泥船",
+        "incorrect_answers": [
+          "浮水網漁船(漁具伸離船外150米以外)",
+          "拖網漁船",
+          "拋錨船 (長度超過50米)"
+        ]
+      },
+      {
+        "question": "圖中I船為帆船；II船為拖網漁船，以下那一項正確？",
+        "id": "135",
+        "hasPic": "135",
+        "hasMP3": "",
+        "correct_answer": "因為II船是漁船，故I船應遠離II船",
+        "incorrect_answers": [
+          "因為I船是帆船，故II船應遠離I船",
+          "兩船均應遠離對方",
+          "因為I船在II船的右舷，故II船應遠離I船"
+        ]
+      },
+      {
+        "question": "兩船對頭相遇，你船已響起警告訊號，而對方船卻沒有作出任何反應，你該在何時作出行動？",
+        "id": "145",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "即時響起適當聲號以進行避碰",
+        "incorrect_answers": [
+          "1000m",
+          "無可避免，兩船必定相撞",
+          "聲號失去作用，兩船必定相撞"
+        ]
+      },
+      {
+        "question": "你駕駛一艘有動力的帆船，若以下的船正從你左舷4點向你駛近，你應避讓以下那類船隻？",
+        "id": "149",
+        "hasPic": "149",
+        "hasMP3": "",
+        "correct_answer": "1, 2",
+        "incorrect_answers": [
+          "1, 3",
+          "2, 3",
+          "1, 2, 3"
+        ]
+      },
+      {
+        "question": "一艘從鋪設航標工作的船舶，大霧在其正在下錨工作時來臨，應",
+        "id": "166",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "每兩分鐘發出一長兩短聲",
+        "incorrect_answers": [
+          "每兩分鐘發出兩長一短聲",
+          "每兩分鐘發出一短一長兩短聲",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "以下那一項是操縱能力受限制的船舶",
+        "id": "194",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆是",
+        "incorrect_answers": [
+          "從事敷設電纜、浮標的船舶",
+          "從事轉移人、糧食或貨物的船舶",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "那類船舶顯示此旗",
+        "id": "206",
+        "hasPic": "206",
+        "hasMP3": "",
+        "correct_answer": "燃油船",
+        "incorrect_answers": [
+          "帆船",
+          "漁船",
+          "失去控制船"
+        ]
+      },
+      {
+        "question": "航向 010° 見右圖航標在前方，應",
+        "id": "225",
+        "hasPic": "225",
+        "hasMP3": "Y",
+        "correct_answer": "如果附近沒有其他船隻，你可從任何一舷經過",
+        "incorrect_answers": [
+          "停船並檢查自己的航向",
+          "船向轉左經過該泡",
+          "船向轉右經過該泡"
+        ]
+      },
+      {
+        "question": "在圖中紅色位置，除非獲海事處處長允許，本地船隻不得進入該範圍_____ 米以內",
+        "id": "282",
+        "hasPic": "L282",
+        "hasMP3": "",
+        "correct_answer": "100米",
+        "incorrect_answers": [
+          "50米. ",
+          "150米",
+          "200米"
+        ]
+      },
+      {
+        "question": "你船長度少於13米，最高載客量少於60人，在這樣的情況下，用來連接救生圈的救生繩長度最短為",
+        "id": "283",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "18米",
+        "incorrect_answers": [
+          "14米",
+          "15米",
+          "27.3米"
+        ]
+      },
+      {
+        "question": "根據國際海上避碰規則，船隻在分航線計劃中行駛，應",
+        "id": "318",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "在安全及可行的情況下，船隻應盡量靠近其右舷的航道的外緣行駛",
+        "incorrect_answers": [
+          "盡量保持在分航線計劃航道之中間航行",
+          "在安全及可行的情況下，船隻應盡量靠近其左舷的航道的外緣行駛",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "你船如欲橫過分缐航道，應",
+        "id": "322",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以交通流向之直角",
+        "incorrect_answers": [
+          "以交通流向之少角度",
+          "a與b都正確",
+          "a與b都不正確"
+        ]
+      },
+      {
+        "question": "根據國際海上避碰規則第十條，以下那類船隻不得進入或於分道航行制內的航道行駛",
+        "id": "330",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆不是",
+        "incorrect_answers": [
+          "操縱能力受到限制的船隻",
+          "拖船",
+          "漁船"
+        ]
+      },
+      {
+        "question": "如無海事處處長批准，赤鱲角機場的那個區域不能進入？",
+        "id": "331",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "1, 2, 3, 4區",
+        "incorrect_answers": [
+          "5, 6區",
+          "5, 6, 7, 8區",
+          "7, 8區"
+        ]
+      },
+      {
+        "question": "你船從銅鑼灣往屯門黃金海岸，在那個情況下不可從東南方向進入汲水門航道",
+        "id": "341",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(a) 及 (b)",
+        "incorrect_answers": [
+          "船隻長度超過10米",
+          "船隻淨空高度超過41米",
+          "船隻淨空高度超過35米"
+        ]
+      },
+      {
+        "question": "根據《商船(本地船隻)(一般)規例》，船隻若不慎進入汲水門特別區域，一經定罪，掌船者可被判最高刑罰為",
+        "id": "361",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "罸款HK$10,000及監禁6個月",
+        "incorrect_answers": [
+          "罸款HK$2,000 及監禁1個月",
+          "罸款HK$5,000 及監禁3個月",
+          "罸款HK$15,000及監禁9個月"
+        ]
+      },
+      {
+        "question": "有一艘帆船用機動輔助行駛，進入銅鑼灣避風塘後要轉右，應",
+        "id": "368",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "發出一短聲",
+        "incorrect_answers": [
+          "發出一長聲",
+          "發出兩長聲",
+          "發出三長聲"
+        ]
+      },
+      {
+        "question": "有一艘帆船用機動輔助行駛，進入銅鑼灣避風塘後要轉左，應",
+        "id": "369",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "發出兩短聲",
+        "incorrect_answers": [
+          "發出一長聲",
+          "發出兩長聲",
+          "發出一短聲"
+        ]
+      },
+      {
+        "question": "圖中兩船，在廣闊的大海中航行時，B船的速度快過A船，B船需要做什麼",
+        "id": "382",
+        "hasPic": "382",
+        "hasMP3": "",
+        "correct_answer": "以上皆不是",
+        "incorrect_answers": [
+          "發出五短聲警告",
+          "發出兩長一短聲後轉右",
+          "發出兩長兩短聲後轉左"
+        ]
+      },
+      {
+        "question": "一艘小船如何靠泊在大型船隻的旁邊？",
+        "id": "447",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以船艏靠近",
+        "incorrect_answers": [
+          "以船尾靠近",
+          "以船側靠近",
+          "以上皆可"
+        ]
+      },
+      {
+        "question": "船隻在波濤洶湧時，為什麼要避開巨浪",
+        "id": "463",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "大浪有機會打翻船隻",
+        "incorrect_answers": [
+          "螺旋槳會因水的阻力減少而失效",
+          "引擎會超速過熱，引致嚴重後果",
+          "浪費燃油"
+        ]
+      },
+      {
+        "question": "有人在船上跌落水，你應",
+        "id": "485",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "轉向，船頭駛向他/她墮海方向",
+        "incorrect_answers": [
+          "掛上有人墮海之旗號",
+          "向海事處報告",
+          "倒後及停船"
+        ]
+      },
+      {
+        "question": "有人在船尾位置跌落水，你應立即",
+        "id": "487",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "拋救生圈",
+        "incorrect_answers": [
+          "派精於泳術的人下海拯救",
+          "聯絡水警，請求支援",
+          "放下救生筏"
+        ]
+      },
+      {
+        "question": "你船全速行駛時撞到礁石，應立即",
+        "id": "498",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "停機",
+        "incorrect_answers": [
+          "後車",
+          "檢查船員狀況",
+          "檢查船身狀況"
+        ]
+      },
+      {
+        "question": "一艘細馬力的船擱淺於大石上，不應做以下那一項",
+        "id": "501",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "開倒車",
+        "incorrect_answers": [
+          "檢查船身狀況",
+          "關掉引擎",
+          "檢查有沒有船員受傷"
+        ]
+      },
+      {
+        "question": "蒲氐四級風的風力",
+        "id": "506",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "11至16節/小時",
+        "incorrect_answers": [
+          "7至10節/小時",
+          "17至21節/小時",
+          "22至27節/小時"
+        ]
+      },
+      {
+        "question": "香港潮汐表包括下列哪一項信息？",
+        "id": "525",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "漲潮和退潮的時間與高度",
+        "incorrect_answers": [
+          "漲潮的流向及最高點",
+          "漲潮和退潮的流向",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "海圖中羅經花北面顯示",
+        "id": "546",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(a) 及 (b)",
+        "incorrect_answers": [
+          "真北",
+          "磁北",
+          "(a) 或 (b)"
+        ]
+      },
+      {
+        "question": "以下那項是「自差」之考慮因素",
+        "id": "561",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "航向",
+        "incorrect_answers": [
+          "航行水域",
+          "航速",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "在那處可獲取海上甚高頻無線電(VHF)之聯絡資訊",
+        "id": "586",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "海事佈告",
+        "incorrect_answers": [
+          "航海通告",
+          "航海警告",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "海事佈告包括",
+        "id": "589",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "海事訊息",
+        "incorrect_answers": [
+          "海員招募",
+          "貨物通關",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "你船於黑色位置航行時遇難，應用那一條VHF頻道發出遇難訊號",
+        "id": "624",
+        "hasPic": "L624",
+        "hasMP3": "",
+        "correct_answer": "16",
+        "incorrect_answers": [
+          "14",
+          "12",
+          "67"
+        ]
+      },
+      {
+        "question": "根據海事法例，作為一個船長，你在收到求救訊號時，第一時間應",
+        "id": "627",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "若情況許可，應駛往協助",
+        "incorrect_answers": [
+          "向海事處報告",
+          "向水警報告",
+          "用通訊器發出求救訊號"
+        ]
+      },
+      {
+        "question": "遊艇上消防斧最好是",
+        "id": "647",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "短柄而絕緣",
+        "incorrect_answers": [
+          "重量不超過3公斤",
+          "附有說明書",
+          "附設消防沙筒"
+        ]
+      },
+      {
+        "question": "以下那項屬船舶上危險氣體",
+        "id": "653",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "燃燒點低，具揮發性及比空氣重",
+        "incorrect_answers": [
+          "燃燒點低，比空氣輕",
+          "燃燒點高，比空氣重",
+          "燃燒點高，具揮發性及比空氣重"
+        ]
+      }
+    ]
+  }

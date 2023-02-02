@@ -1,0 +1,484 @@
+{
+  "results": [
+    {
+      "question": "右邊舷燈底板的顏色是",
+      "id": "7",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "無反光黑色",
+      "incorrect_answers": [
+        "紅色",
+        "綠色",
+        "黃色"
+      ]
+    },
+    {
+      "question": "12米以下的船隻的舷燈的能見距離是",
+      "id": "11",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "(a) 和 (b)",
+      "incorrect_answers": [
+        "1海浬",
+        "1.85公里",
+        "以上皆不是"
+      ]
+    },
+    {
+      "question": "甚麼船用此種燈號",
+      "id": "58",
+      "hasPic": "58",
+      "hasMP3": "",
+      "correct_answer": "以上皆不正確",
+      "incorrect_answers": [
+        "正在航行並從事挖泥的挖泥船",
+        "正在航行中並進行海底作業的船隻",
+        "以上皆正確"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現右圖的船在你右舷20°，而你們的羅經方位不斷增加，你應",
+      "id": "81",
+      "hasPic": "81",
+      "hasMP3": "",
+      "correct_answer": "保持航速及航向",
+      "incorrect_answers": [
+        "響五短聲警告",
+        "響兩短聲轉左",
+        "先做(b)，然後做(c)"
+      ]
+    },
+    {
+      "question": "那類船舶顯示此訊號",
+      "id": "112",
+      "hasPic": "112",
+      "hasMP3": "",
+      "correct_answer": "漁船",
+      "incorrect_answers": [
+        "鋪設海底電纜的船舶",
+        "拖船 (推頂)",
+        "載有危險品之船舶"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現此船在你左舷前1點，你應",
+      "id": "116",
+      "hasPic": "116",
+      "hasMP3": "",
+      "correct_answer": "響一短聲轉右",
+      "incorrect_answers": [
+        "響兩短聲轉左",
+        "保持航向",
+        "以上全不對"
+      ]
+    },
+    {
+      "question": "由長洲往南丫島途中，要避讓那一艘船",
+      "id": "136",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "右舷正橫前三點有12公尺遊艇",
+      "incorrect_answers": [
+        "左舷正橫有水翼船",
+        "右舷後四點有一離島小輪",
+        "船艏有油麻地小輪迎面而來"
+      ]
+    },
+    {
+      "question": "你駕駛一艘有動力的帆船，若以下的船正從你左舷4點向你駛近，你應避讓以下那類船隻？",
+      "id": "149",
+      "hasPic": "149",
+      "hasMP3": "",
+      "correct_answer": "1, 2",
+      "incorrect_answers": [
+        "1, 3",
+        "2, 3",
+        "1, 2, 3"
+      ]
+    },
+    {
+      "question": "在能見度受限制時，有什麼因素要考慮",
+      "id": "189",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "附近船舶來往的密度",
+      "incorrect_answers": [
+        "船的馬力",
+        "水深",
+        "航道速度限制"
+      ]
+    },
+    {
+      "question": "以下那一項是操縱能力受限制的船舶",
+      "id": "194",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆是",
+      "incorrect_answers": [
+        "從事敷設電纜、浮標的船舶",
+        "從事轉移人、糧食或貨物的船舶",
+        "以上皆不是"
+      ]
+    },
+    {
+      "question": "那類船舶顯示此旗",
+      "id": "204",
+      "hasPic": "204",
+      "hasMP3": "",
+      "correct_answer": "領航船",
+      "incorrect_answers": [
+        "船上載有危險貨物",
+        "等待領航船領航的船舶",
+        "以上皆不是"
+      ]
+    },
+    {
+      "question": "那類船舶顯示此旗",
+      "id": "206",
+      "hasPic": "206",
+      "hasMP3": "",
+      "correct_answer": "燃油船",
+      "incorrect_answers": [
+        "帆船",
+        "漁船",
+        "失去控制船"
+      ]
+    },
+    {
+      "question": "你船航向105°，在你右舷前10°見到一閃燈6短閃及1長閃白燈，你應",
+      "id": "215",
+      "hasPic": "",
+      "hasMP3": "Y",
+      "correct_answer": "它應在你的左舷經過",
+      "incorrect_answers": [
+        "在它的北面經過",
+        "ab都正確",
+        "ab都不正確"
+      ]
+    },
+    {
+      "question": "你船艏向 105° 航行，有一泡在你前面，你應",
+      "id": "218",
+      "hasPic": "218",
+      "hasMP3": "Y",
+      "correct_answer": "船向轉左",
+      "incorrect_answers": [
+        "船向轉右",
+        "停船並檢查自己的航向",
+        "以上皆不是"
+      ]
+    },
+    {
+      "question": "請描述孤立危險物浮標的燈質",
+      "id": "251",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "白色聯閃光兩閃Fl.(2)",
+      "incorrect_answers": [
+        "紅色聯閃光兩閃Fl.(2)",
+        "不停閃燈",
+        "強弱閃燈交替"
+      ]
+    },
+    {
+      "question": "弧立危險航標的顏色是",
+      "id": "259",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "黑色，配以一條或更多紅色間條",
+      "incorrect_answers": [
+        "黑色",
+        "紅色",
+        "黑色，配以一條黃色間條"
+      ]
+    },
+    {
+      "question": "圖中黑色地方最高時速可以行多少",
+      "id": "296",
+      "hasPic": "296",
+      "hasMP3": "",
+      "correct_answer": "5節",
+      "incorrect_answers": [
+        "10節",
+        "15節",
+        "8節"
+      ]
+    },
+    {
+      "question": "有一分線航道是在堅尼地城西南至銀洲島西南，它的名稱是",
+      "id": "314",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "東博寮海峽",
+      "incorrect_answers": [
+        "西航道",
+        "藍塘海峽",
+        "西博寮海峽"
+      ]
+    },
+    {
+      "question": "根據國際海上避碰規則，船隻在分航線計劃中行駛，應",
+      "id": "318",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "在安全及可行的情況下，船隻應盡量靠近其右舷的航道的外緣行駛",
+      "incorrect_answers": [
+        "盡量保持在分航線計劃航道之中間航行",
+        "在安全及可行的情況下，船隻應盡量靠近其左舷的航道的外緣行駛",
+        "以上皆不是"
+      ]
+    },
+    {
+      "question": "長度少於12米之船隻於分航線計劃中行駛時，應",
+      "id": "319",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "使用沿岸航行區",
+      "incorrect_answers": [
+        "豁免受分航線計劃之限制",
+        "遵守分航線計劃之限制",
+        "先向海事處取得批准"
+      ]
+    },
+    {
+      "question": "機動船進入避風塘時，見他船或會被障礙物遮檔，應發出",
+      "id": "352",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "1長2短聲",
+        "2長聲",
+        "持續發出5短聲"
+      ]
+    },
+    {
+      "question": "根據國際海上避碰規則，一艘長度少於____米的船隻，不得妨礙只能在狹窄的水道或航道內才能安全航行的船隻通過",
+      "id": "376",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "7",
+        "12",
+        "35"
+      ]
+    },
+    {
+      "question": "你駕駛一艘機動船由淺水灣往長洲，而前方有霧，你從左舷前方聽到1長聲，應",
+      "id": "399",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "停船及發出2長聲",
+      "incorrect_answers": [
+        "即時開啟閃光燈及發出5短聲",
+        "先做(a)，然後做(b)",
+        "(a) 及 (b) 皆正確"
+      ]
+    },
+    {
+      "question": "船艏向潮流方向，船隻操控性會",
+      "id": "406",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "增加",
+      "incorrect_answers": [
+        "減少",
+        "失去",
+        "未能預計"
+      ]
+    },
+    {
+      "question": "若要量度海圖中兩點的距離，應量度",
+      "id": "414",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "海圖左邊或右邊邊緣的分格距離",
+      "incorrect_answers": [
+        "海圖上邊或下邊邊緣的分格距離",
+        "a和b",
+        "a或b"
+      ]
+    },
+    {
+      "question": "船隻航行時撞到一條木，首先要",
+      "id": "428",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "(a) 及 (c)",
+      "incorrect_answers": [
+        "留意船上人員",
+        "報警",
+        "檢查船隻狀況"
+      ]
+    },
+    {
+      "question": "有人在船上跌落水，你應",
+      "id": "486",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "派人注視瞭望",
+      "incorrect_answers": [
+        "全速倒車",
+        "報警",
+        "掛上O旗"
+      ]
+    },
+    {
+      "question": "假如你駕駛一艘沒有用摩打的帆船，你應從那一方救起跌落水的人",
+      "id": "492",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "下風船尾",
+      "incorrect_answers": [
+        "船艏",
+        "船尾",
+        "上風船艏"
+      ]
+    },
+    {
+      "question": "蒲氐四級風的風力",
+      "id": "506",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "11至16節/小時",
+      "incorrect_answers": [
+        "7至10節/小時",
+        "17至21節/小時",
+        "22至27節/小時"
+      ]
+    },
+    {
+      "question": "蒲氐五級風是",
+      "id": "507",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "清風",
+      "incorrect_answers": [
+        "微風",
+        "和風",
+        "強風"
+      ]
+    },
+    {
+      "question": "蒲氐五級風是",
+      "id": "510",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "17至21節/小時",
+      "incorrect_answers": [
+        "強風",
+        "大波浪開始形成",
+        "(b) 及 (c)"
+      ]
+    },
+    {
+      "question": "八號風球是",
+      "id": "519",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "風速 63-117 公里/小時，陣風或會超過 180 公里/小時",
+      "incorrect_answers": [
+        "烈風或暴風的風力正在增強或預計將會明顯增強",
+        "颶風的風力預計超過118公里/小時，陣風可能超過220公里/小時",
+        "風速 90-117 公里/小時，陣風或會超過 200 公里/小時"
+      ]
+    },
+    {
+      "question": "海圖上的這個標誌代表",
+      "id": "530",
+      "hasPic": "530",
+      "hasMP3": "",
+      "correct_answer": "對航行沒有構成危險之沉船",
+      "incorrect_answers": [
+        "水面上的障礙物",
+        "對航行構成危險之沉船",
+        "礁石"
+      ]
+    },
+    {
+      "question": "最佳的下錨位置是",
+      "id": "542",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "R",
+        "Co",
+        "S"
+      ]
+    },
+    {
+      "question": "航行時如何估算羅經差",
+      "id": "567",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆正確",
+      "incorrect_answers": [
+        "比較自差與偏差",
+        "比較兩個重疊目標的真方位與觀察方位 (羅經方位)",
+        "比較海圖上導航線的方向與船艏的方向"
+      ]
+    },
+    {
+      "question": "於船上計算羅經差時，可從可處獲得磁差之數據？",
+      "id": "596",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆非",
+      "incorrect_answers": [
+        "海事通告(海員通告)",
+        "海事佈告",
+        "潮汐表"
+      ]
+    },
+    {
+      "question": "你船於黑色位置航行時，引擎突然停止。為了安全起見，你要你船的情況報告透過VHF那個頻道通知船隻監察中心",
+      "id": "616",
+      "hasPic": "L616",
+      "hasMP3": "",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "12",
+        "67",
+        "16"
+      ]
+    },
+    {
+      "question": "你船於黑色位置航行時，引擎突然停止。你需要向相關機構尋求協助，你應用那一條VHF頻道聯絡VHF船隻監察中心",
+      "id": "623",
+      "hasPic": "L623",
+      "hasMP3": "",
+      "correct_answer": "以上皆非",
+      "incorrect_answers": [
+        "17",
+        "67",
+        "68"
+      ]
+    },
+    {
+      "question": "安裝石油氣應注意",
+      "id": "651",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆是",
+      "incorrect_answers": [
+        "將石油氣樽安裝穩固",
+        "不得阻塞石油氣開闢門",
+        "石油氣膠喉應保持順暢"
+      ]
+    },
+    {
+      "question": "以下那項關於可攜式滅火器的陳述是錯誤的",
+      "id": "692",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "泡沫滅火器只適用於撲救油火",
+      "incorrect_answers": [
+        "船上較少使用水劑滅火器",
+        "BCF/ BTM滅火器是不適合在密封處使用",
+        "乾粉滅火器非常適合用以撲救電火"
+      ]
+    }
+  ]
+}

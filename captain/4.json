@@ -1,0 +1,484 @@
+{
+  "results": [
+    {
+      "question": "右圖是甚麼船",
+      "id": "47",
+      "hasPic": "47",
+      "hasMP3": "",
+      "correct_answer": "失去控制船航行中",
+      "incorrect_answers": [
+        "操縱能力受限制船下錨中",
+        "操縱能力受限制船的尾燈",
+        "危險品船下錨中"
+      ]
+    },
+    {
+      "question": "甚麼船用此種燈號",
+      "id": "52",
+      "hasPic": "52",
+      "hasMP3": "",
+      "correct_answer": "從事敷設航標的船隻",
+      "incorrect_answers": [
+        "遇難船",
+        "從事清除魚雷之船舶",
+        "一艘附設聖誕裝飾的船隻"
+      ]
+    },
+    {
+      "question": "右圖是甚麼船",
+      "id": "65",
+      "hasPic": "65",
+      "hasMP3": "",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "從事測量的船舶",
+        "從事轉運貨物及人員的船舶",
+        "a或b"
+      ]
+    },
+    {
+      "question": "如圖，若你在海上駕船時，發現此船在你左舷前3點，你應",
+      "id": "68",
+      "hasPic": "68",
+      "hasMP3": "",
+      "correct_answer": "保持航速航向 , 有需要時發出響五短聲作警告",
+      "incorrect_answers": [
+        "響一短聲並將航向轉右",
+        "響兩短聲並將航向轉左",
+        "停船"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現右圖的船在你右舷20°，而羅經方位正在増加，你應",
+      "id": "69",
+      "hasPic": "69",
+      "hasMP3": "",
+      "correct_answer": "保持航速及航向",
+      "incorrect_answers": [
+        "響一短聲轉右",
+        "響兩短聲轉左",
+        "響五短聲警告"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現此船在你右舷前 1 點，你們的距離漸近，你應",
+      "id": "97",
+      "hasPic": "97",
+      "hasMP3": "",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "減速讓該船經過",
+        "響起適當聲號以表示你想從那一方超越該船",
+        "(a) 或 (b)"
+      ]
+    },
+    {
+      "question": "你在海上駕船時發現此船在你左舷前3點，你應",
+      "id": "120",
+      "hasPic": "120",
+      "hasMP3": "",
+      "correct_answer": "先做(a)，若該船不理會，你應響一短聲轉右",
+      "incorrect_answers": [
+        "發出五短聲警告",
+        "響兩短聲轉左",
+        "停船並讓該船經過"
+      ]
+    },
+    {
+      "question": "大霧中，一艘12米以下的機動船停止不動，應發出",
+      "id": "157",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "每兩分鐘兩長聲",
+      "incorrect_answers": [
+        "每兩分鐘發出有效的聲響",
+        "a 或 b 都正確",
+        "a 與 b 都不正確"
+      ]
+    },
+    {
+      "question": "在大霧中，如機動船需要轉右，應發出",
+      "id": "162",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "一短聲",
+      "incorrect_answers": [
+        "兩短聲",
+        "兩長一短聲",
+        "一長聲"
+      ]
+    },
+    {
+      "question": "大霧中，一隻下錨的鋪設海底電纜船，每兩分鐘應發出",
+      "id": "168",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "兩短一長聲",
+        "兩長一短聲",
+        "五短聲或以上"
+      ]
+    },
+    {
+      "question": "「在航中」一詞，即表示船隻",
+      "id": "183",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "非拋錨，非靠岸，非擱淺",
+      "incorrect_answers": [
+        "在航道中航行",
+        "在狹窄的水道航行",
+        "在分線區域中航行"
+      ]
+    },
+    {
+      "question": "此旗號是代表甚麼意思",
+      "id": "202",
+      "hasPic": "202",
+      "hasMP3": "",
+      "correct_answer": "本船損壞，請與我通訊",
+      "incorrect_answers": [
+        "你正進入危險狀態中",
+        "本船遇難，我需要援助",
+        "我想與你通訊"
+      ]
+    },
+    {
+      "question": "航向 105° 見右圖航標在前方，應",
+      "id": "216",
+      "hasPic": "216",
+      "hasMP3": "Y",
+      "correct_answer": "如果附近沒有其他船隻，你可從任何一舷經過",
+      "incorrect_answers": [
+        "它在你的左舷經過",
+        "它在你的右舷經過",
+        "停船並檢查自己的航向"
+      ]
+    },
+    {
+      "question": "特別航標(專用航標)的頂部應是",
+      "id": "246",
+      "hasPic": "246",
+      "hasMP3": "",
+      "correct_answer": "pic",
+      "incorrect_answers": [
+        "pic",
+        "pic",
+        "pic"
+      ]
+    },
+    {
+      "question": "你船由鯉魚門駛往尖沙咀，在紅磡航道附近見一個航標以10秒1長閃白燈，是",
+      "id": "252",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "安全水域航標",
+      "incorrect_answers": [
+        "高速船航行中",
+        "弧立危險航標",
+        "賽艇比賽之終點"
+      ]
+    },
+    {
+      "question": "你船在馬灣航道北面往大嶼山北，見此航標在你前方，你應",
+      "id": "254",
+      "hasPic": "254",
+      "hasMP3": "Y",
+      "correct_answer": "向右轉經過此航標",
+      "incorrect_answers": [
+        "向左轉經過此航標",
+        "任何一舷駛過",
+        "以上皆不是"
+      ]
+    },
+    {
+      "question": "特別航標(專用航標)的燈號是",
+      "id": "267",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "黃色閃燈但與安全水域航標、象限航標和孤立危險航標之白色閃燈節奏不相同",
+      "incorrect_answers": [
+        "任何節奏綠色閃燈",
+        "紅色閃燈，每15秒9閃",
+        "快閃白燈"
+      ]
+    },
+    {
+      "question": "圖中的黑色線是代表",
+      "id": "292",
+      "hasPic": "292",
+      "hasMP3": "",
+      "correct_answer": "海港界線",
+      "incorrect_answers": [
+        "A區與B區之界線",
+        "A區與C區之界線",
+        "水道分航制"
+      ]
+    },
+    {
+      "question": "一艘12米的遊艇在圖中的黑色部分最高速度為",
+      "id": "305",
+      "hasPic": "305",
+      "hasMP3": "",
+      "correct_answer": "15節",
+      "incorrect_answers": [
+        "10節",
+        "8節",
+        "5節"
+      ]
+    },
+    {
+      "question": "圖中紅色線是",
+      "id": "329",
+      "hasPic": "329",
+      "hasMP3": "",
+      "correct_answer": "分道航行制",
+      "incorrect_answers": [
+        "狹窄航道",
+        "航道",
+        "以上皆非"
+      ]
+    },
+    {
+      "question": "你船於岬角轉向時，他船或會被遮檔而未能看清楚整個岬角之環境，你應/或許",
+      "id": "353",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "聽到1長聲",
+      "incorrect_answers": [
+        "靠近岬角進行轉向",
+        "附近的船隻會通知你",
+        "於雷達偵測到其他船隻"
+      ]
+    },
+    {
+      "question": "在兩船互見的情況下，一艘機動船若需要向右轉應發出什麼聲號",
+      "id": "372",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆不是",
+      "incorrect_answers": [
+        "兩短聲",
+        "一長一短聲",
+        "一長聲"
+      ]
+    },
+    {
+      "question": "你在維多利亞港駕駛一艘高速快艇，應",
+      "id": "405",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "留意較慢及較細小船隻",
+      "incorrect_answers": [
+        "放置更多防撞墊",
+        "留意水深",
+        "以高速航行"
+      ]
+    },
+    {
+      "question": "一艘外轉雙螺旋槳船停在靜水中而船舵放在正中位置(中舵)，當兩副引擎同時啓動，一邊引擎全速向前另一邊全速向後。",
+      "id": "441",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "船首轉往引擎向後的一邊",
+      "incorrect_answers": [
+        "中舵會令船隻向前推進。",
+        "船首轉往引擎向前的一邊",
+        "船會停留在原來位置但船首會向左右擺"
+      ]
+    },
+    {
+      "question": "你船在波濤洶湧中失控且無法下錨，應",
+      "id": "462",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "放出海錨",
+      "incorrect_answers": [
+        "交替向前及向後駛",
+        "停船讓船隻飄流",
+        "將船上的重物投入海中"
+      ]
+    },
+    {
+      "question": "在避風塘泊泡，當颱風來臨前，你應",
+      "id": "469",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "關好所有入水門窗",
+      "incorrect_answers": [
+        "通知海事處",
+        "將電池充滿電",
+        "入滿油"
+      ]
+    },
+    {
+      "question": "有一隻船已撞入你船，你船大量入水，首先應",
+      "id": "475",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "要求對方慢慢前駛",
+      "incorrect_answers": [
+        "要求對方後退",
+        "要求自己的船員過渡到他船",
+        "將兩船用繩縛在一起"
+      ]
+    },
+    {
+      "question": "有一隻船已撞入你船，你船大量入水，首先應",
+      "id": "476",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "(b) 及 (c)",
+      "incorrect_answers": [
+        "要求對方後退",
+        "要求對方慢慢前駛",
+        "要求自己的船員過渡到他船"
+      ]
+    },
+    {
+      "question": "船艕裂縫漏水入內，你應該怎樣處理",
+      "id": "479",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "用帆布在船身外遮蔽裂縫",
+      "incorrect_answers": [
+        "用水泥注入封密裂縫",
+        "緊急抽水",
+        "停船及召緩"
+      ]
+    },
+    {
+      "question": "如何拯救一個半昏迷的之遇溺者？",
+      "id": "493",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "(b) 及 (c)",
+      "incorrect_answers": [
+        "拋救生圈",
+        "報警",
+        "腰間用繩牽引然後下水救人"
+      ]
+    },
+    {
+      "question": "你船全速行駛時撞到礁石，應立即",
+      "id": "498",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "停機",
+      "incorrect_answers": [
+        "後車",
+        "檢查船員狀況",
+        "檢查船身狀況"
+      ]
+    },
+    {
+      "question": "你船在淺水區擱淺，船隻正快速傾側，應立即",
+      "id": "503",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "檢查是否所有船上人員已經穿上救生衣",
+      "incorrect_answers": [
+        "發出遇難訊號",
+        "檢查船隻燃油有否滲漏",
+        "通知水警及要求援助"
+      ]
+    },
+    {
+      "question": "最佳的下錨位置是",
+      "id": "543",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆是",
+      "incorrect_answers": [
+        "M",
+        "M/S",
+        "S/M"
+      ]
+    },
+    {
+      "question": "重疊方位在什麼情況下出現",
+      "id": "553",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "兩個物體成一直線",
+      "incorrect_answers": [
+        "船隻的航向與物體成一直線",
+        "觀察者與物體成一直線",
+        "一個物體穩定地船隻的前方"
+      ]
+    },
+    {
+      "question": "你船以真航向180°行駛，在你右舷船尾6點有一物體，若以羅經方位計算，該物體之位置是",
+      "id": "572",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "292.5°",
+      "incorrect_answers": [
+        "67.5°",
+        "112.5°",
+        "247.5°"
+      ]
+    },
+    {
+      "question": "海事佈告包括",
+      "id": "589",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "海事訊息",
+      "incorrect_answers": [
+        "海員招募",
+        "貨物通關",
+        "以上皆是"
+      ]
+    },
+    {
+      "question": "液化石油氣是 i) 比空氣重 ii) 可引起窒息 iii) 歸類為危險品進行處理 iv) 在高壓下很容易燃燒",
+      "id": "650",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "以上皆是",
+      "incorrect_answers": [
+        "i, iv",
+        "i, ii, iii",
+        "ii, iii, iv"
+      ]
+    },
+    {
+      "question": "二氧化碳滅火筒的兩個缺點是",
+      "id": "685",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "沒有氣味，及不可以維持生命",
+      "incorrect_answers": [
+        "有毒及不能檢測",
+        "令火災現場的視野變差及氣體不穩定",
+        "比空氣輕，及氣體分散"
+      ]
+    },
+    {
+      "question": "用BCF滅火筒撲救油火時應將之噴向",
+      "id": "693",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "火焰底部",
+      "incorrect_answers": [
+        "火焰週圍",
+        "蓋過火",
+        "火的中央"
+      ]
+    },
+    {
+      "question": "以下那種滅火筒不應由船員在船上自行添加",
+      "id": "698",
+      "hasPic": "",
+      "hasMP3": "",
+      "correct_answer": "(a) 或 (c)",
+      "incorrect_answers": [
+        "泡沫",
+        "水",
+        "二氧化碳"
+      ]
+    }
+  ]
+}

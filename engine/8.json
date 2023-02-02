@@ -1,0 +1,484 @@
+{
+    "results": [
+      {
+        "question": "使用缸頂式閥門和凸輪的發動機，挺桿的位置是在",
+        "id": "705",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "凸輪與閥門之間",
+        "incorrect_answers": [
+          "閥門與搖臂之間",
+          "凸輪與搖臂之間",
+          "推桿與搖臂之間"
+        ]
+      },
+      {
+        "question": "一般發動機的入氣閥與排氣閥的閥門面積差距是",
+        "id": "729",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "入氣閥大於排氣閥",
+        "incorrect_answers": [
+          "排氣閥大於入氣閥",
+          "無分別",
+          "因應閥門位置而定"
+        ]
+      },
+      {
+        "question": "如何檢查入氣閥或排氣閥之漏氣情況 i) 氣缸套的溫度降低及馬力損失 ii) 引擎過熱及排出黑煙 iii) 在壓縮及動力行程時，出現回火(逆火) iv) 引擎轉動不平衡",
+        "id": "730",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (iii) 及 (iv)",
+        "incorrect_answers": [
+          "(i), (ii) 及 (iii)",
+          "(ii), (iii) 及 (iv)",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "噴油器能夠",
+        "id": "739",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "控制噴油之壓力",
+        "incorrect_answers": [
+          "控制噴油時間",
+          "控制耗油量",
+          "全部正確"
+        ]
+      },
+      {
+        "question": "決定燃油噴射壓力的因素是",
+        "id": "740",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "噴射器針閥的彈簧壓力",
+        "incorrect_answers": [
+          "噴射器噴咀孔的尺寸",
+          "高壓燃油泵的柱塞",
+          "高壓燃油泵輸出閥的彈簧壓力"
+        ]
+      },
+      {
+        "question": "一個長方形油櫃，其高是5米，闊是2米，長是2米，當油尺4米時，其盛容器現時是 _____立方米",
+        "id": "752",
+        "hasPic": "",
+        "hasMP3": "W",
+        "correct_answer": "16 立方米",
+        "incorrect_answers": [
+          "20 立方米",
+          "36 立方米",
+          "40 立方米"
+        ]
+      },
+      {
+        "question": "一個油櫃長1米，闊1米，高2米，現時油櫃內的油有0.4米高，問應加多少才令它滿? (1立方米=1000公升)",
+        "id": "761",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "1600公升",
+        "incorrect_answers": [
+          "800公升",
+          "1000公升",
+          "1200公升"
+        ]
+      },
+      {
+        "question": "化油器的作用是",
+        "id": "770",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將電油吸入空氣中",
+        "incorrect_answers": [
+          "將電油噴入汽缸",
+          "將燃料及空氣噴入至發動機",
+          "將燃料吸至汽缸內"
+        ]
+      },
+      {
+        "question": "發動機起動時，阻風門應",
+        "id": "780",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "略為收細，減少空氣進入",
+        "incorrect_answers": [
+          "以下全不對",
+          "略為開大，引進更多空氣",
+          "保持全關"
+        ]
+      },
+      {
+        "question": ".化油器內那一樣零件是用以確保電油的輸出量",
+        "id": "783",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "節氣門",
+        "incorrect_answers": [
+          "阻風器",
+          "針閥",
+          "主噴咀"
+        ]
+      },
+      {
+        "question": "保險絲的作用",
+        "id": "787",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "短路時可保護電路",
+        "incorrect_answers": [
+          "防止漏電",
+          "防止電壓太高",
+          "以上全不對"
+        ]
+      },
+      {
+        "question": "如何保持電池處於良好的工作狀態 i) 避免毒氣積聚 ii) 保持冷卻及通風良好 iii) 維持適當的比重 iv) 維持適當的電解液位",
+        "id": "799",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(ii), (iii) 及 (iv)",
+        "incorrect_answers": [
+          "(i) 及 (iii)",
+          "(iii) 及 (iv)",
+          "(i), (ii) 及 (iv)"
+        ]
+      },
+      {
+        "question": "直流發電機之整流子的作用是",
+        "id": "810",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "確保輸出的電流是直流電",
+        "incorrect_answers": [
+          "收集來自轉子的電流",
+          "控制電壓",
+          "確定電流輸出之頻率"
+        ]
+      },
+      {
+        "question": "可預備________用以在舷外機起動困難時可即時更換",
+        "id": "823",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "一套火花塞",
+        "incorrect_answers": [
+          "分電器",
+          "化油器",
+          "線圈"
+        ]
+      },
+      {
+        "question": "潤滑油的作用 i) 將活動組件分隔 ii) 將活動組件減低摩擦 iii) 將活動組件摩擦熱量帶走 iv) 將活動組件加上一層保護膜",
+        "id": "835",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "全部正確",
+        "incorrect_answers": [
+          "(i), (iii)",
+          "(i), (ii) 及 (iv)",
+          "(i), (iii) 及 (iv)"
+        ]
+      },
+      {
+        "question": "發動機的潤滑系統與變速箱(波箱)潤滑系統分開的原因是 i) 不同的製造商 ii) 齒輪箱的潤滑原理與發動機不同 iii) 發動機的潤滑油受到污染 iv) 一個系統壞了不會影響另一個系統",
+        "id": "839",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(ii), (iv)",
+        "incorrect_answers": [
+          "(i), (ii)",
+          "(i), (iii)",
+          "(iii), (iv)"
+        ]
+      },
+      {
+        "question": "如何正確將潤滑油添加至汽油中？",
+        "id": "851",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "先添加少量汽油，然後添加潤滑油，再添加少量汽油，搖勻1分鐘，最後添加餘下的汽油，搖勻30秒",
+        "incorrect_answers": [
+          "先添加汽油，然後添加潤滑油，搖勻15分鐘",
+          "先添加潤滑油，然後添加汽油",
+          "先添加汽油，然後添加潤滑油"
+        ]
+      },
+      {
+        "question": "冷卻系統需要安裝恆溫器的主因是",
+        "id": "870",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "令發動機的溫度得以迅速提升",
+        "incorrect_answers": [
+          "使發動機工作時的溫度較低",
+          "防止發動機過熱",
+          "防止水泵壓力過高"
+        ]
+      },
+      {
+        "question": "恆溫器何時開啟",
+        "id": "872",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "當發動機處於適當的溫度時",
+        "incorrect_answers": [
+          "發動機過熱時",
+          "當啟動發動機時",
+          "令潤滑油容易流動"
+        ]
+      },
+      {
+        "question": "乾式缸套是",
+        "id": "879",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "與冷卻水沒有直接接觸",
+        "incorrect_answers": [
+          "與潤滑油沒有直接接觸",
+          "與海水直接接觸",
+          "以上皆正確"
+        ]
+      },
+      {
+        "question": "發動機的冷卻系統失靈，應",
+        "id": "881",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "檢查入水口有否阻塞",
+          "檢查海水泵的皮帶是否過鬆",
+          "檢查海水泵的外殼是否過熱"
+        ]
+      },
+      {
+        "question": "若離合器沒有完全放開，便會造成「拖動」，其成因是",
+        "id": "910",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "於中立位之空隙不足",
+        "incorrect_answers": [
+          "離合器之「卸壓彈弓」太強",
+          "於中立位之空隙過多",
+          "離合器上有油"
+        ]
+      },
+      {
+        "question": "下列那項是最大機會導致離合器失靈的原因",
+        "id": "912",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "控制離合器之操縱桿調較有誤差",
+        "incorrect_answers": [
+          "船隻在波濤洶湧中航行",
+          "油泵損壞",
+          "電路損壞"
+        ]
+      },
+      {
+        "question": "船外機的犬齒離合器發生滑動，主要原因是",
+        "id": "915",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "扎頭損毀",
+        "incorrect_answers": [
+          "摩擦物料磨損",
+          "偈油洩漏",
+          "海水污染"
+        ]
+      },
+      {
+        "question": "發動機以怠速長時間運作會造成過度磨損的原因是",
+        "id": "925",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "冷卻水循環表現惡劣",
+        "incorrect_answers": [
+          "燃料不足",
+          "發動機速度過低",
+          "發動機過熱"
+        ]
+      },
+      {
+        "question": "柴油機在下列那個情況下不能啟動",
+        "id": "931",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "空氣不足",
+        "incorrect_answers": [
+          "潤滑油過稀",
+          "潤滑油過濃",
+          "加速桿未在啟動位置"
+        ]
+      },
+      {
+        "question": "發動機速度減慢，加快，然後停止，是由於那個系統故障",
+        "id": "953",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "燃油系統",
+        "incorrect_answers": [
+          "引燃系統",
+          "空氣供應系統",
+          "潤滑系統"
+        ]
+      },
+      {
+        "question": "一部四汽缸的引擎的其中一個火咀損壞會引致",
+        "id": "954",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "有規律地失燃",
+        "incorrect_answers": [
+          "發動機不能起動",
+          "發動機停止轉動",
+          "不規律地失燃"
+        ]
+      },
+      {
+        "question": "若船內機的間接冷卻系統之水箱過熱，其原因為",
+        "id": "961",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "熱量交換器骯髒",
+        "incorrect_answers": [
+          "熱量交換器洩漏",
+          "發動機嚴重磨損",
+          "發動機已運轉一段長時間"
+        ]
+      },
+      {
+        "question": "死氣喉過熱的原因是",
+        "id": "971",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "點火過遲",
+        "incorrect_answers": [
+          "點火過早",
+          "燃油過濾器阻塞",
+          "油量不足"
+        ]
+      },
+      {
+        "question": "發動機排出黑色廢氣的原因是",
+        "id": "976",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上全對",
+        "incorrect_answers": [
+          "引燃過早",
+          "引燃過遲",
+          "混合物過濃"
+        ]
+      },
+      {
+        "question": "為什麼要避免機房艙底積水",
+        "id": "984",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "增加危險範圍",
+        "incorrect_answers": [
+          "積水污濁及無用處",
+          "增加船隻吃水量",
+          "使船底生鏽"
+        ]
+      },
+      {
+        "question": "不應於艙底積聚電油或柴油的原因是",
+        "id": "985",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "可能導致火警",
+        "incorrect_answers": [
+          "污穢及有臭味",
+          "電油或柴油昂貴",
+          "可能導致引燃過早"
+        ]
+      },
+      {
+        "question": "艙底泵用作吸入的喉管應該是",
+        "id": "991",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "厚硬材料",
+        "incorrect_answers": [
+          "透明塑膠",
+          "易彎曲的薄橡膠",
+          "薄而能防油的塑膠"
+        ]
+      },
+      {
+        "question": "航行時，車葉被繩纏著，應如何處理",
+        "id": "996",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "停機，用勾把繩子勾出或用剪刀把繩剪斷",
+        "incorrect_answers": [
+          "加大馬力把繩絞斷",
+          "全速後車讓繩鬆脫",
+          "停機及召喚緊急服務"
+        ]
+      },
+      {
+        "question": "一部舷外機在不使用時，其引擎應提升至",
+        "id": "1002",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "不大於90°",
+        "incorrect_answers": [
+          "水平位置",
+          "135°",
+          "垂直位置"
+        ]
+      },
+      {
+        "question": "如何滅火？",
+        "id": "1023",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "降低溫度",
+          "截斷空氣供應",
+          "以上皆不正確"
+        ]
+      },
+      {
+        "question": "甚麼時候火勢才算是受控制？",
+        "id": "1024",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "當火勢停止蔓延",
+        "incorrect_answers": [
+          "當燃油停止供應",
+          "當滅火行動停止",
+          "當發電機停止運作"
+        ]
+      },
+      {
+        "question": "電器著火，不應使用下列那個滅火筒進行撲救",
+        "id": "1045",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "泡沫",
+        "incorrect_answers": [
+          "乾粉",
+          "二氧化碳",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "如何啟動固定式二氧化碳滅火器",
+        "id": "1055",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "人手",
+        "incorrect_answers": [
+          "溫度",
+          "壓力",
+          "以上皆正確"
+        ]
+      }
+    ]
+  }

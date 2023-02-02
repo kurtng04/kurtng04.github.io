@@ -1,0 +1,484 @@
+{
+    "results": [
+      {
+        "question": "柴油發動機比電油發動機更加安全，原因是",
+        "id": "713",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "引燃時不需要使用電",
+        "incorrect_answers": [
+          "運行速度較慢",
+          "使用不具揮發性燃料",
+          "以上皆非"
+        ]
+      },
+      {
+        "question": "排氣閥過早開啟會引致",
+        "id": "725",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "損失壓力，導致馬力下降",
+        "incorrect_answers": [
+          "損失壓縮之壓力，導致馬力下降",
+          "壓縮過度，導致馬力下降",
+          "增加背壓，導致馬力增加"
+        ]
+      },
+      {
+        "question": "入氣閥與排氣閥遲開會引致",
+        "id": "726",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "挺桿發出敲擊聲",
+        "incorrect_answers": [
+          "發動機轉速不穩定",
+          "損失壓力和馬力減低",
+          "排放藍色廢氣"
+        ]
+      },
+      {
+        "question": "高壓燃油泵是_____ 提供燃油至噴咀",
+        "id": "735",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "定時",
+          "定壓",
+          "定量"
+        ]
+      },
+      {
+        "question": "如噴油器內有空氣，會",
+        "id": "741",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "由於空氣有較大壓縮，所以會影響操作",
+        "incorrect_answers": [
+          "令汽缸溫度提高",
+          "幫助燃燒",
+          "令汽缸溫度過高繼而損毀"
+        ]
+      },
+      {
+        "question": "一個油櫃長2米，闊3米，高6米，如果油櫃內的油高度至頂部還剩是2米，問現在有多少立方米？",
+        "id": "757",
+        "hasPic": "",
+        "hasMP3": "W",
+        "correct_answer": "24立方米",
+        "incorrect_answers": [
+          "36立方米",
+          "12立方米",
+          "30立方米"
+        ]
+      },
+      {
+        "question": "入油時，應 i) 關閉門窗 ii) 請勿吸煙 iii) 確保沒有明火",
+        "id": "763",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) 及 (iii)",
+        "incorrect_answers": [
+          "(iii)",
+          "(ii)",
+          "(i)"
+        ]
+      },
+      {
+        "question": "船隻在加油之前應該 i) 將乘客送至岸上 ii) 將船隻繫緊 iii) 開啟機房所有的通風口 iv) 準備一個水劑滅火筒 v) 緊握入油喉對正輸油管",
+        "id": "765",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) and (v)",
+        "incorrect_answers": [
+          "(i), (iii) and (v)",
+          "(i), (iv) and (v)",
+          "(i), (iii) and (iv)"
+        ]
+      },
+      {
+        "question": "就一部汽油機的燃油系統，下列那一項陳述是正確的",
+        "id": "773",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "空氣經過化油器的霧化管後，其壓力會下降",
+        "incorrect_answers": [
+          "化油器的汽油和空氣混合比是15:1",
+          "空氣不應進入燃油箱",
+          "在起動時，阻風門的作用是把漏出的混合物濃度降低"
+        ]
+      },
+      {
+        "question": "發動機節氣門的作用",
+        "id": "781",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上全不對",
+        "incorrect_answers": [
+          "燃油混合物變濃",
+          "令火花塞容易燃點",
+          "以上全對"
+        ]
+      },
+      {
+        "question": "啟動節氣門的作用",
+        "id": "782",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "吸入更多空氣",
+          "吸入更多混合物",
+          "以上皆不正確"
+        ]
+      },
+      {
+        "question": "安裝/拆卸電池時，要清除所有負荷，原因是",
+        "id": "803",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "防止電流衝擊引致損壞",
+        "incorrect_answers": [
+          "避免觸電",
+          "避免電器損毀",
+          "防止產生火花"
+        ]
+      },
+      {
+        "question": "那項電路故障最為危險？",
+        "id": "815",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "電擊",
+        "incorrect_answers": [
+          "短路",
+          "斷路",
+          "接地"
+        ]
+      },
+      {
+        "question": "如何稱火花塞為熱式火花塞",
+        "id": "822",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "絕緣尖端較長",
+        "incorrect_answers": [
+          "導入螺絲較長",
+          "導入螺絲較短",
+          "絕緣尖端較短"
+        ]
+      },
+      {
+        "question": "應經常更換潤滑油的原因是",
+        "id": "840",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "潤滑油中有污物、金屬碎屑、酸性污染物及潤滑油黏度改變",
+        "incorrect_answers": [
+          "油污於發動機積聚，繼而令潤滑油黏度改變",
+          "潤滑油凝結及燃油污染",
+          "潤滑油中有污物、金屬碎屑及酸性污染物"
+        ]
+      },
+      {
+        "question": "集油槽內有過量的潤滑油，會引致",
+        "id": "847",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上全不對",
+        "incorrect_answers": [
+          "發動機過熱",
+          "點火失靈",
+          "以上全對"
+        ]
+      },
+      {
+        "question": "舷外機使用過量潤滑油會引致",
+        "id": "853",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "火花塞端部結碳及故障",
+        "incorrect_answers": [
+          "引擎過熱",
+          "潤滑更好",
+          "損失馬力"
+        ]
+      },
+      {
+        "question": "油壓警告燈著是表示",
+        "id": "856",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "油壓過低",
+        "incorrect_answers": [
+          "引擎正在運轉",
+          "油壓正常",
+          "油壓過高"
+        ]
+      },
+      {
+        "question": "內燃機之冷卻系統的功用是",
+        "id": "860",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "保持發動機維持在可運行的高溫，繼以可進行高效率的燃燒",
+        "incorrect_answers": [
+          "保持發動機維持在較低的工作溫度",
+          "保持發動機維持在可運行的高溫，繼以減低潤滑油之粘度",
+          "根據負重來調整發動機溫度"
+        ]
+      },
+      {
+        "question": "發動機使用由海水冷卻淡水的環流系統，有甚麼優點",
+        "id": "862",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "淡水溫度較易調控",
+        "incorrect_answers": [
+          "淡水較海水進行冷卻為佳",
+          "可用較小的淡水循環泵",
+          "可增加發動機馬力"
+        ]
+      },
+      {
+        "question": "直接冷卻系統較間接冷卻系統更優勝的是",
+        "id": "867",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "結構簡單",
+        "incorrect_answers": [
+          "噪音較少",
+          "震動較少",
+          "腐蝕程度較少"
+        ]
+      },
+      {
+        "question": "就以下對船尾機冷卻系統的陳述，那項是正確的？",
+        "id": "877",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "一部份海水由船外機中間高度位置排出",
+        "incorrect_answers": [
+          "海水經過入水口進入，全部最後經螺旋槳殼排出",
+          "海水經過數過不同的入水口進入，全部最後經螺旋槳殼排出",
+          "主機的水泵將海水泵至離合器附近進行冷卻"
+        ]
+      },
+      {
+        "question": "離心泵失效的原因是",
+        "id": "885",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "吸入口高於離心泵的位置",
+          "泵體有空氣",
+          "葉閥間隙過大"
+        ]
+      },
+      {
+        "question": "當液壓起錨機的油量不足時，你應",
+        "id": "906",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將之隔離，檢查附近的喉管有否洩漏",
+        "incorrect_answers": [
+          "即時將之入滿油",
+          "泵入污水",
+          "釋放其內部壓力"
+        ]
+      },
+      {
+        "question": "如從不為離合器調校空隙，最終將造成",
+        "id": "911",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "不能接合",
+        "incorrect_answers": [
+          "滑動",
+          "緊緊接合，不能分離",
+          "以上全對"
+        ]
+      },
+      {
+        "question": "如要停止一部已經全速運轉一段時間的發動機前，應",
+        "id": "927",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "先把引擎保持在怠速運轉一段時間",
+        "incorrect_answers": [
+          "停止海水冷卻系統的運作，繼續保持由淡水冷卻系統為引擎冷卻",
+          "關閉燃油系統之出口閥，以確保引擎內沒有燃油",
+          "加速為電池充電"
+        ]
+      },
+      {
+        "question": "停止一部柴油引擎前設置於怠速運轉一段時間之目的是",
+        "id": "928",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "讓引擎得到適當的冷卻",
+        "incorrect_answers": [
+          "減少秏油量",
+          "油渣泵不會嚴重受損",
+          "讓引擎不會產生大量黑煙"
+        ]
+      },
+      {
+        "question": "汽油機不能加速的原因是",
+        "id": "947",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "化油器主噴咀有污物",
+        "incorrect_answers": [
+          "空氣及燃油混合物比例不正常",
+          "燃油喉管故障",
+          "引燃系統故障"
+        ]
+      },
+      {
+        "question": "一部轉動暢順的發動機發生震動，主要原因可能是",
+        "id": "950",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "螺旋槳葉片彎曲",
+        "incorrect_answers": [
+          "聯軸節鬆脫",
+          "離合器滑動",
+          "空氣濾隔器阻塞"
+        ]
+      },
+      {
+        "question": "發動機排出白色廢氣的原因為",
+        "id": "982",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "油缸內有水",
+        "incorrect_answers": [
+          "噴油咀不清潔",
+          "空氣過濾器阻塞",
+          "潤滑油正在燃燒"
+        ]
+      },
+      {
+        "question": "燃油漏入艙底會引致",
+        "id": "987",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "火警",
+        "incorrect_answers": [
+          "引燃過早",
+          "以上皆是",
+          "以上皆非"
+        ]
+      },
+      {
+        "question": "在海中用機動船救人時，當船隻在接近墮海者時應",
+        "id": "998",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "完全停機",
+        "incorrect_answers": [
+          "保持發動機轉動，入後檔",
+          "保持發動機轉動，入中立檔",
+          "保持發動機轉動，入前檔"
+        ]
+      },
+      {
+        "question": "若機房開始入水，你應",
+        "id": "1000",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "趕赴機房，嘗試阻止洪水繼續湧入",
+        "incorrect_answers": [
+          "將機房內積水引導至其他船艙中，以減少機房內之積水",
+          "將船上貨物丟至海中，以減低船隻重量繼而減少洪水湧入",
+          "開啟安全閥停止燃油供應，停止機房以外的電力供應，關閉所有門窗，持續觀察狀況"
+        ]
+      },
+      {
+        "question": "一部舷外機停止後，將機身升離水面的原因是",
+        "id": "1001",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "排出發動機內的海水",
+        "incorrect_answers": [
+          "防止潤滑油洩漏",
+          "讓空氣將它吹乾",
+          "防止漂浮物損壞螺旋槳"
+        ]
+      },
+      {
+        "question": "如果在船艙內聞到石油氣味時，你應",
+        "id": "1018",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "大聲呼叫，通知其他人幫手",
+        "incorrect_answers": [
+          "打開門窗",
+          "拍動毛氈",
+          "用肥皂水測試"
+        ]
+      },
+      {
+        "question": "如何完全確定艙房內沒有洩漏石油氣",
+        "id": "1021",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "用肥皂液體塗抹在喉管上測試",
+          "派一個人到最艙房底層以嗅覺檢查",
+          "邀請一個合資格的人員檢查"
+        ]
+      },
+      {
+        "question": "電器失火，首先",
+        "id": "1027",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "隔離連接電源的電器及電線",
+        "incorrect_answers": [
+          "將周邊所有易燃物品搬離",
+          "讓船艙通風",
+          "用水撲救"
+        ]
+      },
+      {
+        "question": "汽油是最不穩定的燃料，其原因是",
+        "id": "1032",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "當接觸電火花時，容易揮發並點燃",
+        "incorrect_answers": [
+          "除非與潤滑油混合，否則不容易點燃",
+          "除非與空氣進行壓縮，否則不容易點燃",
+          "當散發至空氣時容易點燃"
+        ]
+      },
+      {
+        "question": "以下那類滅火筒不能撲救電火",
+        "id": "1046",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆是",
+        "incorrect_answers": [
+          "泡沫滅火筒",
+          "水劑滅火筒",
+          "以上皆非"
+        ]
+      },
+      {
+        "question": "固定式二氧化碳滅火器必需要",
+        "id": "1056",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "在釋放氣體前，會自動接通警報",
+        "incorrect_answers": [
+          "已連接手動式警報裝置",
+          "已連接警報系統",
+          "以上皆正確"
+        ]
+      }
+    ]
+  }

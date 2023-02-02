@@ -1,0 +1,484 @@
+{
+    "results": [
+      {
+        "question": "為了減少柴油機的引擎橡膠架座的震動應力，所以我們應",
+        "id": "710",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "用一個較重的飛輪",
+        "incorrect_answers": [
+          "用最少數量的汽缸",
+          "當它在全負載時減慢引擎轉速",
+          "用加大馬力的引擎，但在部分負載下運作"
+        ]
+      },
+      {
+        "question": "四衝程電油機的優點是 i) 反應較快 ii) 易於控制 iii) 燃料較便宜 iv) 可靠性較高",
+        "id": "711",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i)，(ii)",
+        "incorrect_answers": [
+          "(i)，(iii)",
+          "(ii)，(iv)",
+          "(iii)，(iv)"
+        ]
+      },
+      {
+        "question": "入氣閥及排氣閥同時開啟是為了",
+        "id": "728",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "更有效掃除廢氣",
+          "更有效引進新鮮空氣",
+          "以上皆不正確"
+        ]
+      },
+      {
+        "question": "受到污染及含沙的燃油對發動機有什麼影響",
+        "id": "744",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "引擎燃油噴油閥(塵筆)會失效",
+        "incorrect_answers": [
+          "引擎將會過熱",
+          "引擎馬力將會損失",
+          "引擎速度將會下降"
+        ]
+      },
+      {
+        "question": "柴油機的動力輸出是靠控制",
+        "id": "745",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "調節噴射燃油量",
+        "incorrect_answers": [
+          "調節壓縮比",
+          "調節進入的生氣量",
+          "改變燃油泵泵油之時間"
+        ]
+      },
+      {
+        "question": "在哪裡可以找到發動機的緊急關機制",
+        "id": "748",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "機房外的特定地點",
+        "incorrect_answers": [
+          "在燃油淨化器旁邊",
+          "機房內的主控制板",
+          "廚房"
+        ]
+      },
+      {
+        "question": "在汽油機船隻加油時，下列那一項行動是錯誤的？",
+        "id": "768",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "打開所有門窗及船艙",
+        "incorrect_answers": [
+          "將發動機(引擎)停止",
+          "關閉燃油供應",
+          "關掉氣體石油氣，熄掉香煙和任何碳爐火焰"
+        ]
+      },
+      {
+        "question": "進入汽缸前，空氣及燃油的霧化在那裡完成",
+        "id": "771",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "進氣岐管",
+        "incorrect_answers": [
+          "浮子室",
+          "阻風門",
+          "節氣門"
+        ]
+      },
+      {
+        "question": ".在發動機起動時，啟動阻風門的作用",
+        "id": "779",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "令空氣及燃油混合物變得更濃",
+        "incorrect_answers": [
+          "吸入更多空氣",
+          "令混合物壓力提高",
+          "以上皆不正確"
+        ]
+      },
+      {
+        "question": "有甚麼零件可以在短路發生時保護電路，免其受損",
+        "id": "790",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "保險絲",
+          "斷路器",
+          "以上皆不正確"
+        ]
+      },
+      {
+        "question": "電池的容量是根據什麼而定",
+        "id": "793",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "在電解液內的電池板面積",
+        "incorrect_answers": [
+          "可維持同一電壓之時間長短",
+          "所需之充電時間",
+          "電池的數量"
+        ]
+      },
+      {
+        "question": "若發現鉛酸電池在充電時過熱，你應",
+        "id": "798",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "減低充電之電流",
+        "incorrect_answers": [
+          "即時添加蒸餾水",
+          "降低充電電壓",
+          "打開電池頂部的塞"
+        ]
+      },
+      {
+        "question": "一個24伏特直流電由那個組合而成",
+        "id": "802",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "2個24伏特電池並聯",
+        "incorrect_answers": [
+          "4個6伏特電池並聯",
+          "4個8伏特電池串聯",
+          "3個12伏特電池串聯"
+        ]
+      },
+      {
+        "question": "以下那項是在分電器內出現的零件",
+        "id": "819",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "以上皆是",
+        "incorrect_answers": [
+          "電容器",
+          "轉子",
+          "離合觸點"
+        ]
+      },
+      {
+        "question": "離合觸點何時會為火花塞產生火花？",
+        "id": "826",
+        "hasPic": "",
+        "hasMP3": "W",
+        "correct_answer": "正在分開",
+        "incorrect_answers": [
+          "正在關閉",
+          "完全關閉",
+          "完全分開"
+        ]
+      },
+      {
+        "question": "磁電機是",
+        "id": "833",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "可以在無須電池之情況下啟動發動機",
+        "incorrect_answers": [
+          "連接電池後用以啟動發動機",
+          "起動柴油發電機時用以連接引燃線圈",
+          "為自動啟動之汽油發動機提供動力"
+        ]
+      },
+      {
+        "question": "一部柴油機的偈油壓力過低的原因是 i) 軸承磨蝕 ii) 油泵損壞 iii) 潤滑油不足 iv) 油隔堵塞 v) 偈油安全閥損壞",
+        "id": "857",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "全部正確",
+        "incorrect_answers": [
+          "(i), (ii), (iii) 及 (iv)",
+          "(i), (ii), (iii) 及 (v)",
+          "(ii), (iii), (iv) 及 (v)"
+        ]
+      },
+      {
+        "question": "密閉式冷卻系統的優點為 i) 引擎溫度的控制較佳 ii) 系統較複雜 iii) 比開放式更為經濟 iv) 因引擎可保持較高的運轉速度，故其效率較佳",
+        "id": "864",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (iv)",
+        "incorrect_answers": [
+          "(i), (ii)",
+          "(ii), (iii)",
+          "(iii), (iv)"
+        ]
+      },
+      {
+        "question": "發動機開動後，恆溫器",
+        "id": "871",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上全對",
+        "incorrect_answers": [
+          "處於關閉狀態",
+          "幫助發動機提升溫度",
+          "以上全不對"
+        ]
+      },
+      {
+        "question": "舷外機冷卻系統是用_________進行冷卻",
+        "id": "876",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "海水",
+        "incorrect_answers": [
+          "淡水",
+          "經海水冷卻的淡水",
+          "空氣"
+        ]
+      },
+      {
+        "question": "若渦輪增壓器的空氣冷卻阻塞，繼而導致高溫的空氣供應到柴油機，會構成甚麼影響？",
+        "id": "887",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "過熱",
+        "incorrect_answers": [
+          "速度下降",
+          "耗油量增加",
+          "耗油量減少"
+        ]
+      },
+      {
+        "question": "在發動機上安裝離合器是為了",
+        "id": "909",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "讓傳動齒輪及螺旋槳軸能夠脫離發動機",
+        "incorrect_answers": [
+          "讓發動機可減速至螺旋槳的轉速",
+          "讓船隻能夠倒車",
+          "讓螺旋槳轉速減慢"
+        ]
+      },
+      {
+        "question": "離合器失靈的原因是",
+        "id": "913",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "驅動盤損壞",
+        "incorrect_answers": [
+          "船隻太多震動",
+          "油泵損壞",
+          "電路損壞"
+        ]
+      },
+      {
+        "question": "如要發動船外機，要做首兩件的事是",
+        "id": "917",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將船外機降至垂直位置並上鎖，將齒桿推至中立檔",
+        "incorrect_answers": [
+          "推動控制桿至中位並打開節氣門",
+          "扭匙及開節氣門",
+          "推動減壓桿及開節氣門"
+        ]
+      },
+      {
+        "question": "從汽油機拆下火咀發覺呈現黑色及積碳的原因是",
+        "id": "940",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "空氣及燃油混合物過濃",
+        "incorrect_answers": [
+          "空氣及燃油混合物比重正確",
+          "空氣及燃油混合物過稀",
+          "火花塞的間隙太少"
+        ]
+      },
+      {
+        "question": "引擎突然停止，不能重新轉動的原因很可能是",
+        "id": "948",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "螺旋槳被膠袋等廢物纏繞",
+        "incorrect_answers": [
+          "沒有燃油",
+          "空氣濾隔阻塞",
+          "離合器損壞"
+        ]
+      },
+      {
+        "question": "若發動機起動時，充電燈是亮著的，但安培燈指著零位，要檢查",
+        "id": "958",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "電池頭是否緊接",
+        "incorrect_answers": [
+          "發動機的轉動是否正常",
+          "所有燈光已關閉",
+          "電線有否鬆脫"
+        ]
+      },
+      {
+        "question": "航行時，冷卻水高溫警報聲響起，你應首先",
+        "id": "959",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將發動機速度減慢",
+        "incorrect_answers": [
+          "停機",
+          "將冷卻水箱注滿水",
+          "打開門窗以加速散熱"
+        ]
+      },
+      {
+        "question": "如燃油噴射器噴油過早，對柴油機有何影響 i) 排出黑色廢氣 ii) 損失馬力 iii) 燃燒不完全 iv) 使冷卻水的溫度降低",
+        "id": "964",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) 及 (iii)",
+        "incorrect_answers": [
+          "(ii), (iii) 及 (iv)",
+          "(i), (ii) 及 (iv)",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "如果柴油機的燃油噴射器的噴油過遲，會做成什麼影響 i) 排出黑色廢氣 ii) 損失馬力 iii) 燃燒不完全 iv) 使冷卻水的溫度降低",
+        "id": "967",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) 及 (iii)",
+        "incorrect_answers": [
+          "(ii), (iii) 及 (iv)",
+          "(i), (ii) 及 (iv)",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "以下那項徵象顯示出電油機入氣槽洩漏",
+        "id": "979",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "火花塞的前端有白色積聚物",
+        "incorrect_answers": [
+          "黑煙",
+          "藍煙",
+          "引擎有敲擊聲"
+        ]
+      },
+      {
+        "question": "柴油發動機噴出黑色廢氣的原因是",
+        "id": "980",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "排氣閥洩漏",
+        "incorrect_answers": [
+          "燃油有水",
+          "以上全對",
+          "以上全不對"
+        ]
+      },
+      {
+        "question": "艙底泵用作吸入的喉管應該是",
+        "id": "991",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "厚硬材料",
+        "incorrect_answers": [
+          "透明塑膠",
+          "易彎曲的薄橡膠",
+          "薄而能防油的塑膠"
+        ]
+      },
+      {
+        "question": "機房緊急出口應 i) 可從機房內開啟 ii) 有清晰指示 iii) 航行時鎖緊",
+        "id": "994",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(ii)",
+        "incorrect_answers": [
+          "(i), (ii) 及 (iii)",
+          "(iii)",
+          "(i)"
+        ]
+      },
+      {
+        "question": "柴油機用減壓系統(排氣閥控桿)來停止一部運轉中的機器是一個壞習慣，理由是",
+        "id": "1007",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "未燃燒的燃油會進入排氣系統，或會因而引致火警",
+        "incorrect_answers": [
+          "會損壞排氣閥",
+          "使注射器骯髒",
+          "會損壞減壓系統"
+        ]
+      },
+      {
+        "question": "石油氣危險的原因是",
+        "id": "1012",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "比空氣重",
+        "incorrect_answers": [
+          "無揮發性",
+          "比空氣輕",
+          "與空氣一樣"
+        ]
+      },
+      {
+        "question": "不應用水撲救油火的主因是",
+        "id": "1031",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將水噴在火的中央，會令火勢蔓延",
+        "incorrect_answers": [
+          "水會破壞船上的電器",
+          "沸水之蒸汽會產生更多氧氣",
+          "艙底積水有機會便船隻沉沒"
+        ]
+      },
+      {
+        "question": "火水(火油)著火，現時用水加在火水上，會引致",
+        "id": "1035",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將水噴在火的中央，會令火勢蔓延",
+        "incorrect_answers": [
+          "火水會在油面混合，火會熄滅",
+          "火水會在油底混合，火會熄滅",
+          "火水會在油面及油底混合，火會熄滅"
+        ]
+      },
+      {
+        "question": "如何使用二氧化碳滅火筒",
+        "id": "1039",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "用二氧化碳滅火筒上之手動閥",
+        "incorrect_answers": [
+          "用控制台之搖控",
+          "用二氧化碳室外之搖控",
+          "電動"
+        ]
+      },
+      {
+        "question": "船艙的消防泵系統的要求為 i) 最少有兩條消防喉管到達任何發生火警的地方 ii) 必須有足夠及穩定的水量及水壓 iii) 要有花灑及直接噴射式喉咀",
+        "id": "1053",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆是",
+        "incorrect_answers": [
+          "(i) 及 (ii)",
+          "(ii) 及 (iii)",
+          "(i) 及 (iii)"
+        ]
+      }
+    ]
+  }

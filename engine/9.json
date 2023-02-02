@@ -1,0 +1,484 @@
+{
+    "results": [
+      {
+        "question": "二衝程發動機活塞頂為一個特別的設計，這個設計是為了",
+        "id": "716",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "更完全掃除廢氣",
+        "incorrect_answers": [
+          "有較高的壓縮",
+          "增加曲軸箱內的壓縮",
+          "使從入氣口進入的氣體轉變方向"
+        ]
+      },
+      {
+        "question": "調校挺桿間隙應",
+        "id": "720",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "跟據廠商說明書所指定之時間及方法",
+        "incorrect_answers": [
+          "發動機處於靜止及已冷卻的狀態",
+          "發動機處於靜止，溫度仍然熱的狀態下",
+          "發動機以慢速運行，溫度熱的狀態下"
+        ]
+      },
+      {
+        "question": "生死氣門的間隙調校過少，不會令",
+        "id": "722",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "閥門損壞",
+        "incorrect_answers": [
+          "閥門過早開啟",
+          "閥門過遲關閉",
+          "廢氣過早排出"
+        ]
+      },
+      {
+        "question": "為甚麼汽油機的壓縮比柴油機為低，是因為",
+        "id": "733",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "電油在較高壓力下會提早燃點",
+        "incorrect_answers": [
+          "電油用火花塞燃點",
+          "柴油機用於較大馬力的引擎",
+          "汽油機馬力較細"
+        ]
+      },
+      {
+        "question": "噴油器洩漏，會引致 i) 馬力減少 ii) 黑煙 iii) 震動 iv) 秏油量增加",
+        "id": "742",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "全部正確",
+        "incorrect_answers": [
+          "(i)、(ii) 及 (iii)",
+          "(i)、(ii) 及 (iv)",
+          "(ii)、(iii) 及 (iv)"
+        ]
+      },
+      {
+        "question": "一個油櫃長1米，闊2米，高1米，現時油的存量0.6立方米，問它滿時為多少公升 (1立方米 = 1000公升)",
+        "id": "751",
+        "hasPic": "",
+        "hasMP3": "W",
+        "correct_answer": "2000 公升",
+        "incorrect_answers": [
+          "800 公升",
+          "1000 公升",
+          "1200 公升"
+        ]
+      },
+      {
+        "question": "一個油櫃長2米，闊2米，高6米，如果油櫃內的油高度至頂部還剩是1米，問現在有多少立方米？",
+        "id": "753",
+        "hasPic": "",
+        "hasMP3": "W",
+        "correct_answer": "20立方米",
+        "incorrect_answers": [
+          "36立方米",
+          "24立方米",
+          "12立方米"
+        ]
+      },
+      {
+        "question": "船隻在加油之前應該 i) 將乘客送至岸上 ii) 將船隻繫緊 iii) 準備一個乾粉滅火筒 iv) 緊握入油喉對正輸油管",
+        "id": "764",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) 及 (iv)",
+        "incorrect_answers": [
+          "(ii), (iii) 及 (iv)",
+          "(i), (iii) 及 (iv)",
+          "(i), (ii) 及 (iii)"
+        ]
+      },
+      {
+        "question": "在放置電池之房間內應安裝那類摩打之抽氣扇，避免積累氫氣？",
+        "id": "805",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "防爆式",
+        "incorrect_answers": [
+          "全天候",
+          "防水",
+          "防水滴"
+        ]
+      },
+      {
+        "question": "保持一部獨立的發電機維持於良好工作狀態，應 i) 保持清潔和乾燥 ii) 保持軸承處於良好的潤滑狀態 iii) 保持速度控制桿處於良好狀態 iv) 不要改變其電流負載量",
+        "id": "807",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) 及 (iii)",
+        "incorrect_answers": [
+          "(ii), (iii) 及 (iv)",
+          "(i), (iii) 及 (iv)",
+          "(i), (ii) 及 (iv)"
+        ]
+      },
+      {
+        "question": "以下那項會引致發電機在運行時產生過低電壓？",
+        "id": "809",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "超負荷或轉速太低",
+        "incorrect_answers": [
+          "超負荷或轉速太高",
+          "有些磁極線圈的電路斷開",
+          "無負載或轉速太高"
+        ]
+      },
+      {
+        "question": "面對一個剛受電擊但仍然會呼吸的人，你首先應",
+        "id": "816",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "使他躺下",
+        "incorrect_answers": [
+          "進行人工呼吸法",
+          "使他保持走動，才不致失去知覺",
+          "給他吃鎮靜劑，以消除其不安"
+        ]
+      },
+      {
+        "question": "二燈接地偵測器，若其中一相接地會出現什麼情況",
+        "id": "817",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "一燈暗，其餘亮",
+        "incorrect_answers": [
+          "二燈全暗",
+          "二燈全亮",
+          "以上皆不對"
+        ]
+      },
+      {
+        "question": "以下那一項是燃點汽缸內燃油和空氣混合物",
+        "id": "821",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "火花塞",
+        "incorrect_answers": [
+          "磁心塞",
+          "電熱塞",
+          "引燃線圈"
+        ]
+      },
+      {
+        "question": "經過凸輪軸油路的液體為",
+        "id": "844",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "潤滑油",
+        "incorrect_answers": [
+          "潤滑油及空氣混合物",
+          "燃油及空氣混合物",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "二衝程舷外機所用的汽油及潤滑油混合物，是以下何種組合",
+        "id": "850",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "一份潤滑油和五十份汽油",
+        "incorrect_answers": [
+          "一份汽油和五十份潤滑油",
+          "一份汽油和五份潤滑油",
+          "五份潤滑油和五份汽油"
+        ]
+      },
+      {
+        "question": "二衝程舷外機的汽缸壁，是如何得到潤滑",
+        "id": "852",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將潤滑油及汽油混合物吸入曲軸箱",
+        "incorrect_answers": [
+          "直接泵潤滑油至汽缸壁",
+          "集油槽儲存潤滑油，潤滑油經轉動中的曲軸激濺至汽缸壁",
+          "潤滑油經曲軸和連桿泵入發動機"
+        ]
+      },
+      {
+        "question": "當柴油發動機正常運作時，潤滑油的顯示燈突然著了紅色，你應首先",
+        "id": "858",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "停機",
+        "incorrect_answers": [
+          "減速",
+          "加速",
+          "以上全不對"
+        ]
+      },
+      {
+        "question": "需要冷卻發動機氣缸的原因是",
+        "id": "861",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "防止受熱扭曲",
+        "incorrect_answers": [
+          "可令活塞在氣缸內更緊密",
+          "潤滑良好",
+          "防止爆裂"
+        ]
+      },
+      {
+        "question": "船外機的冷卻系統是",
+        "id": "878",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "一部份的冷卻水經高於發動機一半高度的孔排出",
+        "incorrect_answers": [
+          "所有水經一個水泵泵入，經船尾排出",
+          ")所有水經發動機吸入，經船尾排出",
+          "海水將淡水冷卻後經船尾排出"
+        ]
+      },
+      {
+        "question": "齒輪箱的功能是",
+        "id": "889",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "控制前進及後退",
+        "incorrect_answers": [
+          "降低螺旋槳的轉速，以配合發動機的速度",
+          "停止引擎運轉",
+          "提高輸出功率"
+        ]
+      },
+      {
+        "question": "推力軸承的作用是",
+        "id": "894",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "推動船舶前進",
+        "incorrect_answers": [
+          "吸收螺旋槳的橫向推力",
+          "在適當位置固定螺旋槳",
+          "固定螺旋槳於船身上"
+        ]
+      },
+      {
+        "question": "液壓舵機系統內有氣鎖，會造成",
+        "id": "900",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "船隻緩慢移動及受到不穩定的壓力",
+        "incorrect_answers": [
+          "轉動角度減少",
+          "方向盤難以轉動",
+          "油泵過熱"
+        ]
+      },
+      {
+        "question": "離合器通常位於",
+        "id": "908",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "齒輪箱與發動機之間",
+        "incorrect_answers": [
+          "推力軸承與螺旋槳軸之間",
+          "推力軸承與船尾軸筒之間",
+          "齒輪箱與螺旋槳軸之間"
+        ]
+      },
+      {
+        "question": "若離合器沒有完全放開，便會造成「拖動」，其成因是",
+        "id": "910",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "於中立位之空隙不足",
+        "incorrect_answers": [
+          "離合器之「卸壓彈弓」太強",
+          "於中立位之空隙過多",
+          "離合器上有油"
+        ]
+      },
+      {
+        "question": "發動機不能起動，燃油混合物於汽缸內積聚會",
+        "id": "942",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "火花塞暫時不能運作",
+        "incorrect_answers": [
+          "提供額外潤滑",
+          "有足夠燃料令汽缸蓋離開缸身",
+          "成為一種更具效能的空氣及燃油混合物"
+        ]
+      },
+      {
+        "question": "發動機的加壓淡水環流冷卻系統中的淡水消秏量過大的原因是",
+        "id": "945",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "汽缸蓋墊片損壞",
+        "incorrect_answers": [
+          "潤滑油冷卻器故障",
+          "恆溫器故障",
+          "淡水不足"
+        ]
+      },
+      {
+        "question": "一部汽油機在運行時，所有汽缸間歇性著火的原因可能是",
+        "id": "951",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "離合觸點間隙變少及有污物",
+        "incorrect_answers": [
+          "所有火花塞同時損壞",
+          "高壓電線損壞",
+          "怠速噴咀調校不正確"
+        ]
+      },
+      {
+        "question": "柴油機噴油過遲會引致",
+        "id": "968",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "廢氣過熱",
+        "incorrect_answers": [
+          "燃燒壓力過大造成敲擊聲 (叩音)",
+          "引擎超負荷",
+          "渦輪增壓器運行不穩定"
+        ]
+      },
+      {
+        "question": "若柴油機的燃油噴射器的噴油過遲，會構成什麼影響",
+        "id": "970",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "秏油量大",
+        "incorrect_answers": [
+          "排氣喉冷凍",
+          "發動機有敲擊聲",
+          "排放廢氣量不足"
+        ]
+      },
+      {
+        "question": "一部電油機為何產生較少黑煙 i) 燃燒燃油量較少 ii) 因為電油含碳量少 iii) 電油可完全燃燒 iv) 電油較容易燃點",
+        "id": "974",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(ii), (iii) 及 (iv)",
+        "incorrect_answers": [
+          "(ii) 及 (iv)",
+          "(i), (iii) 及 (iv)",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "一部柴油機為何產生較多黑煙 i) 因為柴油含碳量高 ii) 柴油不易達到完全燃燒 iii) 柴油較難燃點 iv) 柴油需要使用大量空氣來協助燃燒",
+        "id": "975",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) 及 (iii)",
+        "incorrect_answers": [
+          "(i), (iii) 及 (iv)",
+          "(ii), (iii) 及 (iv)",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "發動機排出黑色廢氣的原因是",
+        "id": "976",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上全對",
+        "incorrect_answers": [
+          "引燃過早",
+          "引燃過遲",
+          "混合物過濃"
+        ]
+      },
+      {
+        "question": "機房緊急出口應 i) 可從機房內開啟 ii) 有清晰指示 iii) 航行時鎖緊",
+        "id": "994",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(ii)",
+        "incorrect_answers": [
+          "(i), (ii) 及 (iii)",
+          "(iii)",
+          "(i)"
+        ]
+      },
+      {
+        "question": "船隻航行時撞到岩石後，船艙開始入水，你應 i) 停機 ii) 檢查機房、引擎及軸承有否受損 iii) 打開艙底泵將水泵出船隻 iv) 高速駛離岩石 v) 放水及放油，以維持船隻浮力",
+        "id": "999",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i), (ii) 及 (iii)",
+        "incorrect_answers": [
+          "(ii), (iii) 及 (iv)",
+          "(i), (iii) 及 (iv)",
+          "(iii), (iv) 及 (v)"
+        ]
+      },
+      {
+        "question": "如何完全確定艙房內沒有洩漏石油氣",
+        "id": "1021",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆正確",
+        "incorrect_answers": [
+          "用肥皂液體塗抹在喉管上測試",
+          "派一個人到最艙房底層以嗅覺檢查",
+          "邀請一個合資格的人員檢查"
+        ]
+      },
+      {
+        "question": "下列那一項不會引起火警",
+        "id": "1025",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "發動機的廢氣",
+        "incorrect_answers": [
+          "烹飪氣體",
+          "機件短路",
+          "引燃系統(火咀)"
+        ]
+      },
+      {
+        "question": "船內發動機著火，應用以下那個的滅火筒進行撲救",
+        "id": "1041",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "二氧化碳滅火筒",
+        "incorrect_answers": [
+          "水劑滅火筒",
+          "沙",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "以下那個滅火筒不能在密閉空間使用",
+        "id": "1043",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "二氧化碳滅火筒",
+        "incorrect_answers": [
+          "水劑滅火筒",
+          "泡沫滅火筒",
+          "乾粉滅火筒"
+        ]
+      },
+      {
+        "question": "使用二氧化碳滅火筒的最大壞處是",
+        "id": "1044",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "會令人不知不覺間窒息死亡",
+        "incorrect_answers": [
+          "只可用於撲救油火",
+          "價錢較水劑滅火筒昂貴",
+          "只可用於撲救電火"
+        ]
+      }
+    ]
+  }

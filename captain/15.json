@@ -1,0 +1,484 @@
+{
+    "results": [
+      {
+        "question": "錨燈的角度為",
+        "id": "5",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "360°",
+        "incorrect_answers": [
+          "225°",
+          "135°",
+          "112.5°"
+        ]
+      },
+      {
+        "question": "12米以下的船隻桅燈的可見距離是",
+        "id": "12",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "2 海浬",
+        "incorrect_answers": [
+          "1 海浬",
+          "3 海浬",
+          "4 海浬"
+        ]
+      },
+      {
+        "question": "船隻長度12米至20米的桅燈可見距離是",
+        "id": "13",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "3 海浬",
+        "incorrect_answers": [
+          "1 海浬",
+          "2 海浬",
+          "5 海浬"
+        ]
+      },
+      {
+        "question": "右圖是什麼船舶",
+        "id": "19",
+        "hasPic": "19",
+        "hasMP3": "",
+        "correct_answer": "從右舷橫過的機動船",
+        "incorrect_answers": [
+          "一艘領航船正橫過",
+          "是一艘領航船",
+          "a 或 b 皆正確"
+        ]
+      },
+      {
+        "question": "什麼船隻顯示這種燈號",
+        "id": "27",
+        "hasPic": "27",
+        "hasMP3": "",
+        "correct_answer": "深水拖網漁船",
+        "incorrect_answers": [
+          "浮水網漁船",
+          "一艘正在航行的帆船",
+          "一艘停駛的漁船"
+        ]
+      },
+      {
+        "question": "圖中是代表甚麼船",
+        "id": "28",
+        "hasPic": "28",
+        "hasMP3": "",
+        "correct_answer": "深水拖網漁船",
+        "incorrect_answers": [
+          "機動船",
+          "下錨船",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "什麼船隻顯示這種燈號",
+        "id": "29",
+        "hasPic": "29",
+        "hasMP3": "",
+        "correct_answer": "漁船漁網在海底受纏繞",
+        "incorrect_answers": [
+          "擱淺中的漁船",
+          "失去控制的漁船",
+          "(a) 或 (b) 正確"
+        ]
+      },
+      {
+        "question": "右圖是甚麼船",
+        "id": "51",
+        "hasPic": "51",
+        "hasMP3": "",
+        "correct_answer": "操縱能力受限制船",
+        "incorrect_answers": [
+          "擱淺船",
+          "失去控制船",
+          "領航船"
+        ]
+      },
+      {
+        "question": "在你船右舷前四點有一點紅光出現而方位不變，你應",
+        "id": "74",
+        "hasPic": "74",
+        "hasMP3": "",
+        "correct_answer": "響一短聲轉右",
+        "incorrect_answers": [
+          "響二短聲轉左",
+          "無需理會",
+          "響五短聲警告"
+        ]
+      },
+      {
+        "question": "你在海上駕船時發現右圖的船在你右舷前3 點，而你們的羅經方位及距離不斷減少，你應",
+        "id": "83",
+        "hasPic": "83",
+        "hasMP3": "",
+        "correct_answer": "響1 短聲轉右",
+        "incorrect_answers": [
+          "保持航速及航向",
+          "響五短聲警告",
+          "(a) 及 (b)"
+        ]
+      },
+      {
+        "question": "你在海上駕船時發現此船在你右舷前 30°，你們之間的羅經方位逐漸減少，你應",
+        "id": "98",
+        "hasPic": "98",
+        "hasMP3": "",
+        "correct_answer": "減速後停船",
+        "incorrect_answers": [
+          "響五短聲警告",
+          "響一短聲轉右",
+          "先做(a)然後做(b)"
+        ]
+      },
+      {
+        "question": "當兩船互見時，何種船會經常成為避讓船",
+        "id": "142",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "超越船",
+        "incorrect_answers": [
+          "正前方的左或右兩點駛來",
+          "橫過船",
+          "機動船"
+        ]
+      },
+      {
+        "question": "船向 015° ，在你右舷前 10° 見此泡，你應",
+        "id": "222",
+        "hasPic": "222",
+        "hasMP3": "Y",
+        "correct_answer": "保持慢駛直航",
+        "incorrect_answers": [
+          "用左舷經過此泡",
+          "任何一方經過此泡",
+          "停船檢查"
+        ]
+      },
+      {
+        "question": "弧立危險航標的頂部應是",
+        "id": "245",
+        "hasPic": "245",
+        "hasMP3": "",
+        "correct_answer": "pic",
+        "incorrect_answers": [
+          "pic",
+          "pic",
+          "pic"
+        ]
+      },
+      {
+        "question": "你船由鯉魚門往銅鑼灣見一綠色航標，你應用那一舷駛過此航標",
+        "id": "255",
+        "hasPic": "",
+        "hasMP3": "Y",
+        "correct_answer": "右舷經過",
+        "incorrect_answers": [
+          "左舷經過",
+          "任何一方",
+          "無需理會"
+        ]
+      },
+      {
+        "question": "根據《商船(本地船隻)(一般)規例》，除非獲海事處處長允許，否則總長度超過多少米的本地船隻不得靠泊任何公眾碼頭？",
+        "id": "275",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆不是",
+        "incorrect_answers": [
+          "45m",
+          "25m",
+          "50m"
+        ]
+      },
+      {
+        "question": "政府公眾碼頭不可",
+        "id": "278",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆是",
+        "incorrect_answers": [
+          "讓船隻靠泊以進行緊急維修",
+          "裝卸貨物",
+          "讓船隻靠泊等候乘客登船"
+        ]
+      },
+      {
+        "question": "在遊艇限制區域由0800至2400的時間內，在清水灣內行駛，最高速度可以",
+        "id": "294",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "5節",
+        "incorrect_answers": [
+          "3 節",
+          "8節",
+          "10節"
+        ]
+      },
+      {
+        "question": "一艘13米長的遊艇，在維多利亞港B區的最高速度為",
+        "id": "308",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "15節",
+        "incorrect_answers": [
+          "5節",
+          "10節",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "圖中紅色線是",
+        "id": "313",
+        "hasPic": "313",
+        "hasMP3": "",
+        "correct_answer": "分道航行制",
+        "incorrect_answers": [
+          "海港界線",
+          "速度限制區",
+          "航道"
+        ]
+      },
+      {
+        "question": "在什麼情況下，船隻可能進入分航道的分隔區域",
+        "id": "327",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "可在緊急情況下進入此區下錨",
+        "incorrect_answers": [
+          "以較少角度駛入",
+          "以較大角度駛入",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "在窄航道中，左邊無障礙物，若要超越它船，應",
+        "id": "379",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "兩長兩短聲",
+        "incorrect_answers": [
+          "兩短聲",
+          "兩短兩長聲",
+          "兩長一短聲"
+        ]
+      },
+      {
+        "question": "大霧中，應用何種速度航行",
+        "id": "387",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "安全速度",
+        "incorrect_answers": [
+          "舵控速度",
+          "慢速",
+          "以能見度的一半距離，仍可改變航向的速度"
+        ]
+      },
+      {
+        "question": "船隻航行時撞到一條木，首先要",
+        "id": "423",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "留意船上人員",
+        "incorrect_answers": [
+          "檢查海圖",
+          "檢查船隻狀況",
+          "檢查船牌"
+        ]
+      },
+      {
+        "question": "你船航行時，螺旋槳突然脫落，你應 i) 利用VHF頻道16向海事處報告你船狀況 ii) 利用船隻餘下的動力前往下錨區下錨 iii) 通知船上各人",
+        "id": "427",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(i) 及 (iii)",
+        "incorrect_answers": [
+          "(ii) 及 (iii)",
+          "(ii) 及 (i)",
+          "以上皆是"
+        ]
+      },
+      {
+        "question": "低轉速的機動船所產生的橫向壓力是",
+        "id": "437",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "比高轉速的機動船為大",
+        "incorrect_answers": [
+          "與高轉速的機動船一樣",
+          "比高轉速的機動船為小",
+          "與高轉速的機動船相反"
+        ]
+      },
+      {
+        "question": "撞船後首先應",
+        "id": "477",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "停船並關注自己所有船員",
+        "incorrect_answers": [
+          "查證對方船的船名",
+          "詢問對方船長的姓名",
+          "留意兩船位處之方位"
+        ]
+      },
+      {
+        "question": "船艕裂縫漏水入內，你應該怎樣處理",
+        "id": "479",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "用帆布在船身外遮蔽裂縫",
+        "incorrect_answers": [
+          "用水泥注入封密裂縫",
+          "緊急抽水",
+          "停船及召緩"
+        ]
+      },
+      {
+        "question": "你不是駕駛者，見到有人跌落水，你應該要",
+        "id": "484",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "通知掌舵人轉舵駛向他/她墮海的方向",
+        "incorrect_answers": [
+          "通知掌舵的人停發動機",
+          "自己帶同水泡落水救人",
+          "拋救生圈"
+        ]
+      },
+      {
+        "question": "你船由香港仔到大澳以半速(6節)途中碰到不明物體，你應",
+        "id": "497",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "將波棍推至中檔",
+        "incorrect_answers": [
+          "加速",
+          "慢慢前車",
+          "慢慢倒車"
+        ]
+      },
+      {
+        "question": "你船全速行駛時撞到礁石，應立即",
+        "id": "498",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "停機",
+        "incorrect_answers": [
+          "後車",
+          "檢查船員狀況",
+          "檢查船身狀況"
+        ]
+      },
+      {
+        "question": "五級風的的海面情況是",
+        "id": "508",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "中浪，白色碎浪更多，間有浪花飛濺",
+        "incorrect_answers": [
+          "小浪，白色碎浪很多 白頭浪更為頻密",
+          "以上皆是",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "一個羅經有_____點，每點相差為_____度",
+        "id": "571",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "32, 11 1/4°",
+        "incorrect_answers": [
+          "8, 45°",
+          "16, 22 1/2°",
+          "以上皆不是"
+        ]
+      },
+      {
+        "question": "航向東南南，航行30分鐘後發覺有人墮海，回航方向是",
+        "id": "582",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "西北北",
+        "incorrect_answers": [
+          "西北",
+          "西南南",
+          "西南"
+        ]
+      },
+      {
+        "question": "海事佈告是提供以下那項資訊",
+        "id": "585",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "(b) 及 (c)",
+        "incorrect_answers": [
+          "海圖數據",
+          "香港水域安全事項",
+          "能見度低時需要注意之事項"
+        ]
+      },
+      {
+        "question": "海事佈告包括",
+        "id": "588",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "以上皆是",
+        "incorrect_answers": [
+          "更改法例",
+          "海事工程",
+          "船上安全事項"
+        ]
+      },
+      {
+        "question": "當你發覺船頭的甲板著火，你會將船",
+        "id": "644",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "順風而駛",
+        "incorrect_answers": [
+          "逆風而駛",
+          "停船",
+          "駛至最近的岸邊"
+        ]
+      },
+      {
+        "question": "船舶著火，使用滅火筒之正確程序是 1) 在合適的距離瞄準著火位置 2) 拉出安全別針 3) 按著滅火器的槓桿 4) 將噴嘴左右掃射",
+        "id": "645",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "2, 1, 3, 4",
+        "incorrect_answers": [
+          "1, 2, 3, 4",
+          "2, 1, 4, 3",
+          "1, 2, 4, 3"
+        ]
+      },
+      {
+        "question": "要泡沫滅火筒撲救燃油火時應",
+        "id": "690",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "噴在火焰的週圍",
+        "incorrect_answers": [
+          "泡沫噴至蓋過火",
+          "泡沫噴在火的中央",
+          "噴在火焰底部"
+        ]
+      },
+      {
+        "question": "應如可撲救液化天然氣引起的火災",
+        "id": "696",
+        "hasPic": "",
+        "hasMP3": "",
+        "correct_answer": "切斷氣源",
+        "incorrect_answers": [
+          "二氧化碳滅火器",
+          "泡沫滅火器",
+          "水劑滅火器"
+        ]
+      }
+    ]
+  }
